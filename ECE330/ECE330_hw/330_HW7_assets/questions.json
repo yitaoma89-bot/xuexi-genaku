@@ -1,0 +1,58 @@
+[
+  {
+    "hw": 7,
+    "n": 1,
+    "title": "SP 7.1 (part 1)",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755283495/",
+    "text": "The flux linkage in an energy-conservative electromechanical system is given by\n\n$$\\lambda(i,x) = \\frac 12 L(x) i^2$$\n\nwhere $L(x) = 2 x + 3$ H/A. Here, $x$ is the size of the gap in m, and $i$ is the current applied to the coil in A.\n\nCompute the energy (in Joules) in the system at $i=2$ A and $x = 14$ m.\n\nWm [J] = ________\n\nCompute the force of electrical origin (in Newtons) at $i=2$ A and $x = 14$ m.\n\nf [N] = ________",
+    "image": null
+  },
+  {
+    "hw": 7,
+    "n": 2,
+    "title": "SP 7.1 (part 2)",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755283499/",
+    "text": "The flux linkage in an energy-conservative electromechanical system is given by\n\n$$\\lambda(i,x) = \\frac 12 L(x) i^2$$\n\nwhere $L(x) = 2 x + 3$ H/A. Here, $x$ is the size of the gap in m, and $i$ is the current applied to the coil in A.\n\nIf the gap changes from $x = 14$ m to $x = 5$ m while maintaining a fixed current $i = 11$ A, what is the energy transfered to the magnetic field from the electrical system (EFE) for this trajectory?\n\nEFE [J] = ________\n\nIf the current is then changed from $i = 11$ A to $i = 16$ A while maintaining a fixed gap $x = 5$ m, what is the energy transfered to the magnetic field from the mechanical system (EFM) for this trajectory?\n\nEFM [J] = ________",
+    "image": null
+  },
+  {
+    "hw": 7,
+    "n": 3,
+    "title": "SP 7.2",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755283497/",
+    "text": "The flux linkage for a given electromechanical system is given as $\\lambda=\\frac{Ai}{x-x_0}$ where $A=0.096$ Hm and $x_0=0.007$ m\n\n$$\\begin{bmatrix} & a & b & c & d & a\\\\ i & 0 & i_b & i_c & 0 & 0 \\\\ \\lambda & 0 & 9 & \\lambda_c & 0 &0 \\\\ x& 0.047& 0.047 & 0.014 & 0.014 & 0.047 \\end{bmatrix}$$\n\nThe system is operated in a closed cycle $a\\rightarrow b\\rightarrow c\\rightarrow d\\rightarrow a$. $x$ is held constant along $a\\rightarrow b$ and $c\\rightarrow d$ and $i$ is held constant over $b\\rightarrow c$ and $d\\rightarrow a$.\n\nWhat is $i_c$ and $\\lambda_c$?\n\n$i_c$ [A] = ________\n\n$\\lambda_c$ [Wb turns] = ________\n\nWhat is energy stored in the coupling field and the force of electric origin at point $b$?\n\n$W_{m_b}$ [J] = ________\n\n$f^e_b$ [N] = ________",
+    "image": null
+  },
+  {
+    "hw": 7,
+    "n": 4,
+    "title": "4.12",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755283496/",
+    "text": "Given $W_m=3x\\lambda^2$, find the energy transfered from the mechanical system to the coupling field as $x$ moves from 0.2 to 0.56 m along a constant current $i=7$ A path.\n\nEFM [J] = ________",
+    "image": null
+  },
+  {
+    "hw": 7,
+    "n": 5,
+    "title": "Energy Transfer EFE",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755283494/",
+    "text": "A system with $\\lambda=L(x)i$ is moved between points a and b through points c and d along straight line trajectories as shown . Point d is located at $\\lambda=2.8$ Wb turns and $i=1.1$ A.\n\nWhat is energy stored in the coupling field at points a and b?\n\n$W_{m_a}$ [J] = ________\n\n$W_{m_b}$ [J] = ________\n\nWhat is the energy transfered from the electrical system to the coupling field when moving from a to b?\n\nEFE [J] = ________",
+    "image": "Ex2p3p2.png"
+  },
+  {
+    "hw": 7,
+    "n": 6,
+    "title": "Energy Transfer EFM (part 1)",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755283500/",
+    "text": "A system with $\\lambda=\\frac{A}{x-x_0}i^2$ where $A=0.005$ Wb t m/A$^2$ and $x_0=0.06$ m moves from point $a$ to point $c$ through point $b$ with the points defined as:\n\nPoint $a$: $\\lambda_a=5.43$ Wb t, $i_a=7.8$ A, $x_a=0.116$ m\n\nPoint $b$: $\\lambda_b=1.67$ Wb t, $i_b=1$ A, $x_b=0.063$ m\n\nPoint $c$: $\\lambda_c=8.86$ Wb t, $i_c=4.8$ A, $x_c=0.073$ m\n\nWhat is energy stored in the coupling field at points $a$ and $c$?\n\n$W_{m_a}$ [J] = ________\n\n$W_{m_c}$ [J] = ________",
+    "image": "Ex2p3p3.png"
+  },
+  {
+    "hw": 7,
+    "n": 7,
+    "title": "Energy Transfer EFM (part 2)",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755283498/",
+    "text": "A system with $\\lambda=\\frac{A}{x-x_0}i^2$ where $A=0.003$ Wb t m/A$^2$ and $x_0=0.04$ m moves from point $a$ to point $c$ through point $b$ with the points defined as:\n\nPoint $a$: $\\lambda_a=4.23$ Wb t, $i_a=7.6$ A, $x_a=0.081$ m\n\nPoint $b$: $\\lambda_b=2.61$ Wb t, $i_b=2.8$ A, $x_b=0.049$ m\n\nPoint $c$: $\\lambda_c=7.93$ Wb t, $i_c=4.6$ A, $x_c=0.048$ m\n\nThe energy stored in the coupling field at points $a$ and $c$ are given below.\n\n$W_m(a) = 21.413463414634144$ J\n\n$W_m(c) = 24.333999999999996$ J\n\nThe system moves from point $a$ to point $b$ along a straight line and from point $b$ to point $c$ along a straight line.\n\nWhat is the energy transfered from the mechanical system to the coupling field when moving from $a$ to $c$?\n\nEFM [J] = ________",
+    "image": "Ex2p3p3.png"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "HW5.1. 4.1",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398816/",
+    "body_md": "[线上题目](https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398816/)\n\n![Original diagram](330_HW5_assets/4p1.png)\n\nThe infinitely permeabile iron core with $W=2$ cm given above has a coil wrapped around it with $N=123$ turns. The airgap $g=0.46$ cm is fixed while the airgap $x(t)$ cm is free to vary. The coil is driven by $i(t)$ A of current.\n\nAt time $t=0$ seconds, the variable airgap is $x(0)=0.24$ cm, and the driving current is $i(0)=4$ A. What is the numerical value of the flux linkage $\\lambda$ at time $t=0$ seconds? Neglect fringing.\n\n$\\lambda$ [Wb turns] = ________\n\nAt time $t=0$ seconds, the current $i$ is <u>increasing</u> at a rate of 11 A/s, while the airgap $x$ is <u>closing</u> at a rate of $10$ m/s. What is the instantaneous voltage across the coil at time $t=0$ seconds? Neglect fringing, and use the polarities marked in the diagram.\n\n$v$ [V] = ________",
+    "images": [
+      {
+        "name": "4p1.png",
+        "source_url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398816/clientFilesCourse/4p1.png"
+      }
+    ]
+  },
+  {
+    "title": "HW5.2. 4.2",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398820/",
+    "body_md": "[线上题目](https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398820/)\n\n![Original diagram](330_HW5_assets/4p2.png)\n\nThe inductance for the reluctance motor shown above with $N=215$ turns can be approximated as a sinusoidal function\n\n$$L=L_1+L_2\\cos(2\\theta)$$\n\nwhere the rotor angle $\\theta$ is oriented as in the figure.\n\nWhen $g_0=0.15$ cm, the cross-sectional area $A_{g0}=5$ cm$^2$. When $g_1=0.94$ cm, the cross-sectional area $A_{g1}=7$ cm$^2$.\n\nWhat are the values of $L_1$ and $L_2$ for this motor? The reluctance of the iron core can be neglected.\n\n$L_1$ [mH] = ________\n\n$L_2$ [mH] = ________",
+    "images": [
+      {
+        "name": "4p2.png",
+        "source_url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398820/clientFilesCourse/4p2.png"
+      }
+    ]
+  },
+  {
+    "title": "HW5.3. 4.4",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398818/",
+    "body_md": "[线上题目](https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398818/)\n\n![Original diagram](330_HW5_assets/4p4.png)\n\nThe infinitely permeabile iron core with $W=1.7$ cm given above has a coil wrapped around it with $N=201$ turns. The airgap is set at $x=0.99$ cm. The coil is driven by $i=7$ A of DC current. Neglect fringing in all of your calculations.\n\nWhat is the numerical value of the flux linkage $\\lambda$?\n\n$\\lambda$ [Wb turns] = ________\n\nAt this very instant, the coil current $i$ is <u>decreased</u> from its original DC value at a rate of 13 A/s, while the airgap $x$ is forced to <u>open</u> at a rate of $2$ m/s. What is the instantaneous voltage across the coil? Use the polarities marked in the diagram.\n\n$v$ [V] = ________",
+    "images": [
+      {
+        "name": "4p4.png",
+        "source_url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398818/clientFilesCourse/4p4.png"
+      }
+    ]
+  },
+  {
+    "title": "HW5.4. SP 5.1",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398815/",
+    "body_md": "[线上题目](https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398815/)\n\n![Original diagram](330_HW5_assets/SP5p1.png)\n\nThe infinitely permeabile iron core given above with a depth into the page of $D=1.7$ cm has a coil wrapped around it with $N=129$ turns and a resistance of $R=14\\ \\Omega$. The airgap $g=0.41$ cm is fixed.\n\nWhat is the flux linkage $\\lambda$ when $i=10$ A and $x=0.31$ cm? (Neglect fringing in your calculations.)\n\n$\\lambda$ [Wb turns] = ________\n\nWhen $i=10$ and $x=0.31$ cm the time derivatives of the current and position are $\\left.\\frac{di}{dt}\\right|_{i=10}=16$ A/s and $\\left.\\frac{dx}{dt}\\right|_{x=0.31}=5$ m/s. What is the voltage across the coil for these conditions?\n\n$v$ [V] = ________",
+    "images": [
+      {
+        "name": "SP5p1.png",
+        "source_url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398815/clientFilesCourse/SP5p1.png"
+      }
+    ]
+  },
+  {
+    "title": "HW5.5. 4.8 Multi-Port",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398819/",
+    "body_md": "[线上题目](https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398819/)\n\nA diesel generator is modeled as an electromechanical system shown below with two electrical and one mechanical ports. The stator is modeled as \"terminal 1\", the rotor is modeled as \"terminal 2\", and the angle between the stator and the rotor is modeled as the angle variable $\\theta$.\n\n![Original diagram](330_HW5_assets/p2mt2fa19.png)\n\nThe rotor is connected to a DC current source of fixed $8$ A, and driven by a diesel generator at a fixed angular velocity of $4$ rad/s. The $\\lambda-i$ relations have been modeled as the following:\n\n$$\\begin{bmatrix}\\lambda_1\\\\\\lambda_2\\end{bmatrix}=\\begin{bmatrix}7+3\\cos(2\\theta)&0.4\\cos(\\theta)\\\\0.4\\cos(\\theta)&66+35\\cos(2\\theta)\\end{bmatrix}\\begin{bmatrix}i_1\\\\i_2\\end{bmatrix}$$\n\nAt time $t=0$ second, the stator is driving an electrical load with $i_1(t=0)=-9$ A, with a rate of change of $\\frac{di_1}{dt}|_{t=0}=12$ A/s, and the rotor has angle $\\theta(t=0)=50^\\circ$. What are the instantaneous terminal voltages observed at the stator and rotor terminals?\n\n$v_1(t=0)$ [V] = ________\n\n$v_2(t=0)$ [V] = ________",
+    "images": [
+      {
+        "name": "p2mt2fa19.png",
+        "source_url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398819/clientFilesCourse/p2mt2fa19.png"
+      }
+    ]
+  },
+  {
+    "title": "HW5.6. 4.8 Multi-Port-v2",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398817/",
+    "body_md": "[线上题目](https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398817/)\n\nA diesel generator is modeled as an electromechanical system shown below with two electrical and one mechanical ports. The stator is modeled as \"terminal 1\", the rotor is modeled as \"terminal 2\", and the angle between the stator and the rotor is modeled as the angle variable $\\theta$.\n\n![Original diagram](330_HW5_assets/p2mt2fa19.png)\n\nThe rotor is connected to a DC current source of fixed $3$ A, and driven by a diesel engine at a fixed angular velocity of $327$ rad/s. The stator is left in open circuit. The $\\lambda-i$ relations have been modeled as the following:\n\n$$\\begin{bmatrix}\\lambda_1\\\\\\lambda_2\\end{bmatrix}=\\begin{bmatrix}8+5\\cos(2\\theta)&0.4\\cos(\\theta)\\\\0.4\\cos(\\theta)&50+25\\cos(2\\theta)\\end{bmatrix}\\begin{bmatrix}i_1\\\\i_2\\end{bmatrix}$$\n\nWe observe a *sinusoidal* voltage waveform at the open-circuited stator. What is the magnitude and frequency of the associated AC voltage phasor? (Reminder: your answer should be stated in RMS)\n\n$|\\overline{V}_1|$ [V] = ________\n\n$f$ [Hz] = ________",
+    "images": [
+      {
+        "name": "p2mt2fa19.png",
+        "source_url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/743398817/clientFilesCourse/p2mt2fa19.png"
+      }
+    ]
+  }
+]

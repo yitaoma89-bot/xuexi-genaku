@@ -1,0 +1,42 @@
+[
+  {
+    "hw": 6,
+    "n": 1,
+    "title": "4.1.2",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755282916/",
+    "text": "The infinitely permeabile iron core with $W=1$ cm given above has a coil wrapped around it with $N=187$ turns. The airgap $g=0.47$ cm is fixed.\n\nWhat is the energy $W_m(\\lambda,x)$ when $\\lambda=0.76$ Wb turns and $x=0.22$ cm?.\n\n$W_m$ [J] = ________\n\nWhat is the force of electric origin $f^e(\\lambda,x)$ for these conditions?\n\n$f^e$ [N] = ________",
+    "image": "4p1.png"
+  },
+  {
+    "hw": 6,
+    "n": 2,
+    "title": "4.1.2 v2",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755282919/",
+    "text": "The infinitely permeabile iron core with $W=3.2$ cm given above has a coil wrapped around it with $N=147$ turns. The airgap $g=0.34$ cm is fixed.\n\nWhat is the co-energy $W_m^\\prime(i,x)$ when $i=4$ A and $x=0.43$ cm?.\n\n$W_m^\\prime$ [J] = ________\n\nWhat is the force of electric origin $f^e(i,x)$ for these conditions?\n\n$f^e$ [N] = ________",
+    "image": "4p1.png"
+  },
+  {
+    "hw": 6,
+    "n": 3,
+    "title": "4.2.2",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755282915/",
+    "text": "The inductance for the reluctance motor shown above with $N=244$ turns can be written as\n\n$$L=L_1+L_2\\cos(2\\theta)$$\n\nwhere $\\theta$ is defined as in the figure.\n\nWhen $g_0=0.32$ cm, the cross-sectional area $A_{g0}=3$ cm$^2$. When $g_1=0.74$ cm, the cross-sectional area $A_{g1}=6$ cm$^2$.\n\nWhat is the torque of electric origin $T^e$ for this motor when $\\theta=49^\\circ$ and $i=5$ A?\n\n$T^e$ [Nm] = ________",
+    "image": "4p2.png"
+  },
+  {
+    "hw": 6,
+    "n": 4,
+    "title": "4.4.2",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755282917/",
+    "text": "The infinitely permeabile iron core with $W=4.3$ cm given above has a coil wrapped around it with $N=222$ turns.\n\nWhat is the energy $W_m(\\lambda,x)$ when $\\lambda=0.11928380690657137$ Wb turns, $x=0.96$ cm, and $i=10$ A?.\n\n$W_m$ [J] = ________\n\nWhat is the co-energy $W_m^\\prime(i,x)$ for the same conditions?.\n\n$W_m^\\prime$ [J] = ________\n\nWhat is the force of electric origin $f^e(i,x)$ for these conditions?\n\n$f^e$ [N] = ________",
+    "image": "4p4.png"
+  },
+  {
+    "hw": 6,
+    "n": 5,
+    "title": "4.10",
+    "url": "https://us.prairielearn.com/pl/course_instance/226894/instance_question/755282918/",
+    "text": "The co-energy of a device is given as $W_m^\\prime=\\frac{i^4}{4x}$\n\nWhat is the flux linkage $\\lambda$ when $i=0.87$ A and $x=0.27$ cm?.\n\n$\\lambda$ [Wb turns] = ________\n\nWhat is the force of electric origin $f^e(i,x)$ for these conditions?\n\n$f^e$ [N] = ________\n\nWhat is the energy $W_m$ for the same conditions?\n\n$W_m$ [J] = ________",
+    "image": null
+  }
+]

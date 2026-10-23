@@ -1,0 +1,47 @@
+[
+  {
+    "hw": 4,
+    "n": 1,
+    "label": "3.1",
+    "instance": 733998187,
+    "variant": 174848424,
+    "img": "3p1.png",
+    "original": "A coil is wrapped around an iron core as given in the figure below.\n\nThe coil has $N=217$ turns, the airgap is $g=0.19$ cm, and the depth into the page is $d=2.4$ cm. The mean path length through the entire iron core (both top and bottom pieces together) is 40 cm and the relative permeability of the iron is $\\mu_r=3000$.\n\nWhat are the reluctances of the core and **one of the two** air gaps? Include the effect of fringing in the air gaps.\n\n$\\mathcal R_c$ [MA turns/Wb] = ______\n\n$\\mathcal R_g$ [MA turns/Wb] = ______\n\nWhat is the flux linkage when the current $i=7.4$ A?.\n\n$\\lambda$ [Wb turns] = ______\n\nWhat is the inductance of the coil when the current $i=7.4$ A?\n\n$L$ [mH] = ______"
+  },
+  {
+    "hw": 4,
+    "n": 2,
+    "label": "3.2",
+    "instance": 733998190,
+    "variant": 174848445,
+    "img": "3p2.png",
+    "original": "The reluctances for the figure above are given as $\\mathcal R_1=2\\times10^6$ AT/Wb, $\\mathcal R_2=1.6\\times10^6$ AT/Wb, and $\\mathcal R_3=1.4\\times10^6$ AT/Wb. $N_1=84$ turns and $N_2=130$ turns\n\nKeep $i_1$ and $i_2$ as variables. What are the inductances of the two coils?\n\n$L_1$ [mH] = ______\n\n$L_2$ [mH] = ______\n\nWhat are the flux linkages in the two coils when $i_1=4.3$ A and $i_2=1.8$ A ?\n\n$\\lambda_1$ [Wb turns] = ______\n\n$\\lambda_2$ [Wb turns] = ______"
+  },
+  {
+    "hw": 4,
+    "n": 3,
+    "label": "4.3",
+    "instance": 733998188,
+    "variant": 174848464,
+    "img": "4p3.png",
+    "original": "The infinitely permeabile iron core with $W=4.5$ cm and $D=4.8$ cm given above has 2 coils wrapped around it with $N_1=245$ turns and $N_2=246$ turns. The airgap $g=0.48$ cm is fixed.\n\nWhat are the flux linkages $\\lambda_1$ and $\\lambda_2$ in the two coils when $i_1=10$ A, $i_2=9$ A, and $x=0.34$ cm?. (Neglect the effects of fringing.)\n\n$\\lambda_1$ [Wb turns] = ______\n\n$\\lambda_2$ [Wb turns] = ______"
+  },
+  {
+    "hw": 4,
+    "n": 4,
+    "label": "3.14",
+    "instance": 733998186,
+    "variant": 174848475,
+    "img": "3p14.png",
+    "original": "Two coils are coupled together as shown with $A=0.45$ H, $B=1.7$ H, $R_1=2\\ \\Omega$ and $R_2=4\\ \\Omega$. The voltage source has a magnitude of $V=\\sqrt{2}(130)$ V. What is the voltage $\\bar V_2$ across resistor $R_2$?\n\n$V_2$ [V] = ______\n\n$\\theta_{v2}$ [$^\\circ$] = ______"
+  },
+  {
+    "hw": 4,
+    "n": 5,
+    "label": "3.17",
+    "instance": 733998189,
+    "variant": 174848482,
+    "img": null,
+    "original": "Two identical but mutually coupled coils are connected in two different ways, and the inductances in each case are measured.\n\nWhen connected in series with the undotted terminal of one connected to the dotted terminal of the other coil, the equivalent inductance is $L_{eq}=0.099$ H.\n\nWhen connected in series with the undotted terminal of one connected to the undotted terminal of the other coil, the equivalent inductance is $L_{eq}=0.027$ H.\n\nWhat is the self inductance $L$, mutual inductance $M$, and coefficient of coupling $k$?\n\n$L$ [mH] = ______\n\n$M$ [mH] = ______\n\n$k$ [--] = ______"
+  }
+]

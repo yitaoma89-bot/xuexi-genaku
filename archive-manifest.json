@@ -1,0 +1,3341 @@
+[
+  {
+    "path": "ECE310/310exams/exam1/ECE310_fa2019_e01.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 150935,
+    "sha256": "74c09fae676b4b7b4ef4a041dc9212538f60900e28176a7000f3db812d214188"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE310_sp2021_e01.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 138443,
+    "sha256": "14ae9ba2a30c6a1db8a96edc2d2639e731da8c8946d4dad14161bd7629b469c1"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Fall_2023.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 138865,
+    "sha256": "6b8dc6500968fd89586d1a75bac3a576d0cc8aafa154195a9ec4b51e9fc83053"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Fall_2023_Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 151508,
+    "sha256": "035e906cf4e2c47a3dfa504ce74823444d388bbe46035b77ab1244f9219cd276"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Fall_2024.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 133684,
+    "sha256": "bc13c676ed11c1d401d32ab687201f91d6fed75d4a4e05762c5a11f2da09ea89"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Fall_2024_Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 153678,
+    "sha256": "626c0bdbe84f3e351a4560dd2b01bae883a28542a6b354930d9ca032ad8dfe00"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Fall_2025.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 145027,
+    "sha256": "e24a465c22fc42567454c33131cae50751dedff64c625143ae17254adcec53b2"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Solutions_Fall_2025.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1253492,
+    "sha256": "f4bffe90d063b330e5fec8b252bc8c6b24ff4593c00b164e2b4c047c1b0f0af1"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Solutions_Spring_2023.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 173356,
+    "sha256": "b35b9b70d2714ad7fc5b5f06599b30706a2d0f2d143cfe38657fc40d5512b89b"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Spring_2023.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 146520,
+    "sha256": "a80886593924831b4bfa114b232658dc5cba60537e3ae332625202918fe85f5a"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Spring_2025.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 168552,
+    "sha256": "b9c6c90cd364232fbdb1275034d2c890a67592882d7b341591108192b6b5772d"
+  },
+  {
+    "path": "ECE310/310exams/exam1/ECE_310_Exam_1_Spring_2025_Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1562589,
+    "sha256": "67008e7201a87a6b8e0da37820fa329cf9336a4355e013c977d951b683c7a04b"
+  },
+  {
+    "path": "ECE310/310exams/exam1/FA19MT1Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1146369,
+    "sha256": "a3065d6499b6f064fb46f376f7f9aaf2657205fcefc91ca399847caa4e6a54af"
+  },
+  {
+    "path": "ECE310/310exams/exam1/SP21MT1Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 892921,
+    "sha256": "cd79b2a6707b156abe129f19c11fe3b4b892927653e83288aa6c05fdb9e92692"
+  },
+  {
+    "path": "ECE310/310exams/exam2/ECE310_fa2021_e02_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 446517,
+    "sha256": "1a026c2fb7d8767af283d8e69441b9e04c3c6a7dc8fa401c3474031422bcfcfb"
+  },
+  {
+    "path": "ECE310/310exams/exam2/ECE310_sp2021_e02_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1929849,
+    "sha256": "b7e56cdfa3bc10c1014aa2ac791db8f8599a5dcedc6518ff2580d808ec8f338d"
+  },
+  {
+    "path": "ECE310/310exams/exam2/ECE_310_Exam_2_Fall_2024_Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 367890,
+    "sha256": "a731e09911b86466e82d7dcc0cb12a0aba6e2480a05fa0cf7393466477b23492"
+  },
+  {
+    "path": "ECE310/310exams/exam2/ECE_310_Exam_2_Solutions_Spring_2023.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 467840,
+    "sha256": "75b5751ebd59ec44373b8ad3ffc1ead9e2e904b0d9850086bdb9a81f446d58b9"
+  },
+  {
+    "path": "ECE310/310exams/exam2/ECE_310_Exam_2_Spring_2023.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 322226,
+    "sha256": "2ea01f6207eab335250549ef10b325cd7a7bbea29b3bbc6c64a00349baf8067f"
+  },
+  {
+    "path": "ECE310/310exams/final/ECE_310_Final_Exam_Solutions_Spring_2023.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1179720,
+    "sha256": "cda754df548177a104374492a9e515c8e8d6852cd2fabf426d36da55fae85cda"
+  },
+  {
+    "path": "ECE310/310exams/final/ECE_310_Final_Exam_Spring_2023 (1).pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1157592,
+    "sha256": "17431408f2ed7b2e77b81680725366ea5e54431c3f3adda1432413743be99609"
+  },
+  {
+    "path": "ECE310/310exams/整理资料/来源资料/ECE 310 MT1 SOL.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 197112,
+    "sha256": "4e5404213a1c975b63f6b51b583702ee8b40039477d2363221015e80271b33ac"
+  },
+  {
+    "path": "ECE310/310exams/整理资料/来源资料/ECE 310 MT1 WKST.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 125433,
+    "sha256": "d7a2c4926860309ec8f919de6a620cbac6eba5fd3950e31e1656a31ab11dfe4b"
+  },
+  {
+    "path": "ECE310/310exams/整理资料/来源资料/ECE 310 RS 1.pptx.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2717176,
+    "sha256": "60603e19f9eefd74b36001d4b9e3ce77d30914bb84ae1344041f1fa5af8ecd78"
+  },
+  {
+    "path": "ECE310/310exams/整理资料/来源资料/ECE_310_Complete_Slides_Midterm_1_Review.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1747516,
+    "sha256": "32ebade48797326e6e9dc621c1f1032047237777b7b057936cc4080194ad9309"
+  },
+  {
+    "path": "ECE310/310exams/整理资料/来源资料/ECE_310_Slides_Midterm_1_Review.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 529712,
+    "sha256": "93a992369ffc5cfd191152b20f3d96aa43fcc664bf86609e92cc199756bad5af"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 1/ECE_310_Complete_Slides_Lecture_1.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2308363,
+    "sha256": "6481b27fc0101cf418ab52bc87238568f038c90455094294b7bf999eba87832b"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 1/ECE_310_Lecture_1.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1475600,
+    "sha256": "4b721af248e5959480990f1b3e05ddf5815cb32eef440d63429ececd3483499b"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 1/ECE_310_Slides_Lecture_1.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1350055,
+    "sha256": "8522664bfd85a48d0f4f1550959da64d5c2b1769e3e0820af2985d2f4183e90e"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 10/ECE_310_Complete_Slides_Lecture_10.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 857253,
+    "sha256": "eabb284e774b934dc281ef8bbc52ac39a1184a3d55e3d5bbfbea55b7df6f1fff"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 10/ECE_310_Lecture_10.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 261556,
+    "sha256": "4415e73007c4e91b0fb8de417f71d0d80ed0026000f433aae0d71b2d235475b8"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 10/ECE_310_Slides_Lecture_10.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 570087,
+    "sha256": "d4f93b478fba49fd48159fe94ab453e581a64d0b8f668e0936a9090c657f082a"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 11/ECE_310_Complete_Slides_Lecture_11.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3444308,
+    "sha256": "b392cb8c60aaae8f22148c31ebdbbd15978fd13f32908198c70c51695c4d6eaf"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 11/ECE_310_Lecture_11.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 985541,
+    "sha256": "c7e4c2424a44654993d29226e21da4ef352a5ebc77ef7a5ceb5b78d9dd2476c7"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 11/ECE_310_Slides_Lecture_11.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 307767,
+    "sha256": "95980cf081921fd167ad2c30b090974cc0f34a403d52c3ae323b05a9c6f2b18b"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 12/ECE_310_Complete_Slides_Lecture_12.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4193048,
+    "sha256": "5286264b9e5116fa0c21a1129f939ff1ff16a3a1c70daf30344908612b99b5fc"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 12/ECE_310_Lecture_12.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1989794,
+    "sha256": "6462abd78ce3420eabec36c6b4d4b28eb5e92d2d88ae4cd375f0bc8276097802"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 12/ECE_310_Slides_Lecture_12.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1955398,
+    "sha256": "b49a5c204785a411fdc8be04bbf3d21f9ba69118e8396e9c0b6584f57941ffae"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 13/ECE_310_Complete_Slides_Lecture_13.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2068015,
+    "sha256": "0663f84af511fb17e97c203d59ff82e4beee313ec7692e01ac8f4444ea49d16e"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 13/ECE_310_Lecture_13.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1525312,
+    "sha256": "a199aefc5a7306294bced98a87f46bac76a560459afa63aed84662a08d90d16d"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 13/ECE_310_Slides_Lecture_13.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 947240,
+    "sha256": "017ac1d8bb079dacadc12e202be19a95c21ba2e516e873001e88aaf5226d8a80"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 14/ECE_310_Complete_Slides_Lecture_14.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 761010,
+    "sha256": "3c84a9d3dba782e62b58fe8c6babf5106bd6959cbb5681796b53c9fb25234465"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 14/ECE_310_Lecture_14.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 227588,
+    "sha256": "d2e9bd5b9c3a9ffa6bf25f6271125a210011db37747454653f02332eb1510502"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 14/ECE_310_Slides_Lecture_14.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 221838,
+    "sha256": "5f128b8595d0f29b3ba584bd104c94a6b3ec08bb2c98328e4b34a324ae6f222c"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 15/ECE_310_Complete_Slides_Lecture_15.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 838816,
+    "sha256": "d5b0ec9f7594ec31dc3a77312dd0944a34cc66e3025df0c937617dc07f3946fe"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 15/ECE_310_Lecture_15.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 259418,
+    "sha256": "b6ae4eb7d2ff7362fdbca6b6020816f3daae336fe54cff8a081d1ccbb41d921c"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 15/ECE_310_Slides_Lecture_15.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 251273,
+    "sha256": "f6699dae706b0a1b1d928b452f85775acb4ea50d5bc2749db2edd99693a2622f"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 16/ECE_310_Complete_Slides_Lecture_16.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4012054,
+    "sha256": "30f5067f0010b75fb44623bd805fb5990f4520543ef5cf2ab2ffca847427dac1"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 16/ECE_310_Lecture_16.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3148596,
+    "sha256": "48904b4f5641bf6441492798cbbf49279878ea6c8721e3f19f63e51ad02abf66"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 16/ECE_310_Slides_Lecture_16.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2954697,
+    "sha256": "5812eecef7865d989ba50900f0b93fede5399d23e0bb1dc52b70154da1ba8e32"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 17/ECE_310_Complete_Slides_Lecture_17.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1271551,
+    "sha256": "b8665ac8119dfb27ab5d7aaca5ba95b231a90aa960c200eb60c038bcfb09c3d3"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 17/ECE_310_Lecture_17.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 350522,
+    "sha256": "a8d44dbe02a4d19452d6b6ed04975f8c53399cd8aa2bdd1f7d6c3f28405c7368"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 17/ECE_310_Slides_Lecture_17.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 224492,
+    "sha256": "e4464a9b04427f3ee5e8de907ca6353f63df3fc820d52acea01e54013d17c9e7"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 18/ECE_310_Complete_Slides_Lecture_18.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3180664,
+    "sha256": "3fe063b156333980467ecc641c40ef65a617ef044f69bafe1499b761800462f1"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 18/ECE_310_Lecture_18.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 700494,
+    "sha256": "c87dc087aac628f3abb47dd6b03072f6d2a83f8f25734fe0579870dcfe1fe44a"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 18/ECE_310_Slides_Lecture_18.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 775674,
+    "sha256": "43798caa5a6940e6f6f9c140c36b3212a0cea36a53486d56d55dfb4310411e4c"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 19/ECE_310_Complete_Slides_Lecture_19.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2383730,
+    "sha256": "08de8a2b476ff5f419b4d97d232becd60b8861168c3298cf1dad4f94cc118d58"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 19/ECE_310_Lecture_19.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1527511,
+    "sha256": "343011e57a2da0f216bc85f90960cffd478f93ebc184c9082543f8802f566e69"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 19/ECE_310_Slides_Lecture_19.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1550373,
+    "sha256": "6bef818ec6b0c1ed662dc290be7a2ad6432135ba6ac2b59ca74cf0ffe8d0541c"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 2/ECE_310_Complete_Slides_Lecture_2.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 804396,
+    "sha256": "b9a0055f63605b6afcafa83af50929db74f9d871c08ed5e28bc8586600845943"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 2/ECE_310_Lecture_2.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 549739,
+    "sha256": "7d66be278347e3094deff2098076ef378055a10be3d51acd0f34232ccd7ff379"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 2/ECE_310_Slides_Lecture_2.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 213048,
+    "sha256": "33fb35e32c0a0dbfe94996065621c382851a30ad8471b5dc698a340f6f3f953c"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 20/ECE_310_Lecture_20.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 401009,
+    "sha256": "ec691acb833ad49894173eedbe8d4e332f020023da5e2ba187626de00750f979"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 20/ECE_310_Spring_2026_Lecture_20.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 364861,
+    "sha256": "307dc8a6f9c7d8489db78d67ee227b84fb58c87e5226f5d46da373d2d812f5c1"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 3/ECE_310_Complete_Slides_Lecture_3.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2396654,
+    "sha256": "a33e4c02b722f08c66749237ddf68450abcac0427f7de509f089b7b5f7f591d7"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 3/ECE_310_Lecture_3.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 167823,
+    "sha256": "7dc1412c737e60c4af814f97d15624aa605b4b055cc9bc1582e3692c2e81fc82"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 3/ECE_310_Slides_Lecture_3.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 171054,
+    "sha256": "56f0255d476a7791328610b752fec5629face0bd76edbed7932fdaf71fef84ed"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 4/ECE_310_Complete_Slides_Lecture_4.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2572736,
+    "sha256": "6d30b329e352862afa3a396bca24851d96904d7386bc112c87bde4e80e1e2668"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 4/ECE_310_Lecture_4.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 281107,
+    "sha256": "ed78df7748c1fd7c79681210a75da47b1f43a9534d3d3669eb0a492a1ccb0ec5"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 4/ECE_310_Slides_Lecture_4.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 300963,
+    "sha256": "b19410dad01a72f1fab2d47f608fd7473eed207dccc5c6eb8947f08658eb1fe8"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 5/ECE_310_Complete_Slides_Lecture_5.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 871851,
+    "sha256": "f2a499483da6ae74a480554ba12b52e738f6591ae1ce38d8e78d5a8d7f9d4a1e"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 5/ECE_310_Lecture_5.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 417926,
+    "sha256": "670bb9aa5298619f8a8427d108809101c12694db756e46f5cdc3f6aa1448caef"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 5/ECE_310_Slides_Lecture_5.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 142273,
+    "sha256": "8de046a7deddef305b6c38e00c8c38d31dee71d81b717294495f0b90d7949927"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 6/ECE_310_Complete_Slides_Lecture_6.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1584850,
+    "sha256": "7b0dce81a161a782dfc84da53e82b3eb9492d267909ab44c8ff99788c4835baa"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 6/ECE_310_Lecture_6.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 765172,
+    "sha256": "870d2acbdf70bf6b8b17299c20535386b0a1896195b6308b893cab8e5d30174a"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 6/ECE_310_Slides_Lecture_6.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 781719,
+    "sha256": "6905e56289cb9cb228c2b18989ea01af2d45dcfc374ab576109aebe8b636c30d"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 7/ECE_310_Complete_Slides_Lecture_7.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1354425,
+    "sha256": "da1a832df551452555f6b10557493414cdf4c4ca45172802be41d8f90397d4a6"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 7/ECE_310_Lecture_7.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 182259,
+    "sha256": "59357f0123dc43255ca1c2090130b4bbcf873061817101afcd5333381c31b749"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 7/ECE_310_Slides_Lecture_7.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 179121,
+    "sha256": "086ff009c57245de18216a5a1e0ec7ce0c7a5ca204cbc9c0c0984e5bf22ab99a"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 8/ECE_310_Complete_Slides_Lecture_8.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1243593,
+    "sha256": "17729aeff6074be3ec6c97e3f6d379d63d7a3aeb74999c0028ca34ec623f1f29"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 8/ECE_310_Lecture_8.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 194716,
+    "sha256": "c3e52b75111f03d60f79e6aa4fac4dfd72c81a3bbf3f40cfc5d819b7f5ec7902"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 8/ECE_310_Slides_Lecture_8.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 191676,
+    "sha256": "62b262ec36bd8d9f5a099728176929299449112c84389d3cc0c58215250eb727"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 9/ECE_310_Complete_Slides_Lecture_9.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 931802,
+    "sha256": "c0a4029f34b8fdcdda518c504e89deab263ec39f70d095e5846e07db8c10b92d"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 9/ECE_310_Lecture_9.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 417119,
+    "sha256": "e361404326cf08cee5b245d3de74462b332904b6f0c84b83336a5f1a118276b7"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 9/ECE_310_Slides_Lecture_9.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 395224,
+    "sha256": "dadeb32209971090742b819d5c3cf803a8dbd67cccb13ced7e3714083b063e6a"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Midterm 1 Review/ECE_310_Complete_Slides_Midterm_1_Review.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1747516,
+    "sha256": "32ebade48797326e6e9dc621c1f1032047237777b7b057936cc4080194ad9309"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Midterm 1 Review/ECE_310_Slides_Midterm_1_Review.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 529712,
+    "sha256": "93a992369ffc5cfd191152b20f3d96aa43fcc664bf86609e92cc199756bad5af"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW1.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 145348,
+    "sha256": "974467720f501d53a511b0d633e9c44e3c509cea7e0656022879563ab8dc797c"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW1_SOL.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 367412,
+    "sha256": "2cc293b0d6af49b9909514473b0053a21314d48f820c77deb9da039f89a1a036"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW2.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 114738,
+    "sha256": "87d83b34eb6a771d47b229ff46a4fe31519b878728aee8e3d655592af32b7d89"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW2_SOL.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 211158,
+    "sha256": "60d56fba59e60fef5ef717387fe2878e15390bf8385f0d57a3c5fc2d28b1bd4b"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW3.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 119998,
+    "sha256": "c09ba9ce0f171a75f9ac04f57f626b42dbf6472b98c282d1ad7cbfddcb56fa1c"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW4.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 116199,
+    "sha256": "f4b3837a98df785a4f30d2f9e5e45e0440983a0d5a0e47de0658e824a990b0be"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW5.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 193970,
+    "sha256": "f6c1055d0233a18ee091bb118ee22387e9178ba6535cf1f1064b704ac195bf52"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW6.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 134581,
+    "sha256": "3be12430e369c91f41b12a1734a176ccd34472bc2bcee4ad322d2fef2528b4ae"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW7.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 130935,
+    "sha256": "6f4f28aa81e46abb3bdbe85ec97c19f4a884db7fdd182d2295ca79892a1eb700"
+  },
+  {
+    "path": "ECE310/ECE310_hw/HW8.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 112742,
+    "sha256": "eb68bf2995e62aa37d57aac342ccdf27d1d9cbaa04d0a698c30ff646e3c8b75e"
+  },
+  {
+    "path": "ECE329/329exams/exam1/329sp18_exam1.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 228552,
+    "sha256": "56ecf560a4331776fce9c0aa39c58af36d2bc35bfd341c2b3cd4362d9209312a"
+  },
+  {
+    "path": "ECE329/329exams/exam1/329sp18_exam1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1062727,
+    "sha256": "3fbb954354ede362b4fa64e0ad6517c0529e3186c67787e9ebff0e38d3cf301a"
+  },
+  {
+    "path": "ECE329/329exams/exam1/329sp24_exam1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2472564,
+    "sha256": "a9fe390219543b32ac4046d637c58266c673d80d0a6ed215a83690ae16e58e93"
+  },
+  {
+    "path": "ECE329/329exams/exam1/329sum17he1sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 128133,
+    "sha256": "10805684d11f02094d0a228ea262d721c1a14c07101810e5b52a922406155fc2"
+  },
+  {
+    "path": "ECE329/329exams/exam1/329sum18he1sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 131853,
+    "sha256": "14b87b499c7e849ac7b7f651b352143050bd98f0386f7ca78928f8f8deff5929"
+  },
+  {
+    "path": "ECE329/329exams/exam1/329sum19he1sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 252611,
+    "sha256": "e59b2643b0b16a29b698d920ca377fc8b99419663e81c2659037676746eede2b"
+  },
+  {
+    "path": "ECE329/329exams/exam1/329sum20he1sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2084978,
+    "sha256": "fc33abd7a0a32e1d2f28ae9991447be6843511254fbc6a11c89081a52975955a"
+  },
+  {
+    "path": "ECE329/329exams/exam1/ECE_329_MT1_Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 115006,
+    "sha256": "548484e4f2806fcba853cc251a97051573221f6e5d42e990394bb34e38632835"
+  },
+  {
+    "path": "ECE329/329exams/exam1/midterm1.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 4521366,
+    "sha256": "93f14dd81be7f9f44d694df680c30313b1f4e0cf4c887193efbd8f327ce0c9bc"
+  },
+  {
+    "path": "ECE329/329exams/exam2/329sp18_exam2.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 471305,
+    "sha256": "b3853b5917a9882b03f4ac5f94f9b3fe9ad65ac1015d320991f6515005f70c13"
+  },
+  {
+    "path": "ECE329/329exams/exam2/329sp18_exam2_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2643196,
+    "sha256": "86860dbd7231c943b05769235c6d4634214b3c6a480209ebd19ac80a01d89700"
+  },
+  {
+    "path": "ECE329/329exams/exam2/329sum17he2sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 99510,
+    "sha256": "f7c73092e0f2dab25c105b68ee211bc984d236a911940e399f552f15580df214"
+  },
+  {
+    "path": "ECE329/329exams/exam2/329sum18he2sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 322383,
+    "sha256": "e46389b813762d5fd58726aa8b933f7c86f1f76e7edb846980d698dfc9f88a6c"
+  },
+  {
+    "path": "ECE329/329exams/exam2/329sum19he2sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 233860,
+    "sha256": "db7399da6826d6d42aeb0535248b2f6c899c20f1cfa66bace03a3a650baedc15"
+  },
+  {
+    "path": "ECE329/329exams/exam2/329sum20he2sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 3824491,
+    "sha256": "57adc76b0a61e516b84010872f138086e929a4ae07e5732d8af13cfa27390a76"
+  },
+  {
+    "path": "ECE329/329exams/exam2/ece329_fa23_exam2_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 400902,
+    "sha256": "e5d9f2e766f454d177f52fe2574de8aee448a4559d73992de2e09c5f92e81f40"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329fa23_exam3_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1499837,
+    "sha256": "c7ac595db4334f910c93349f0b15d7bc932170c7c67abecc3125392caa63f804"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sp17_exam3.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2341952,
+    "sha256": "f550505ec9e4f07d7348b91aa330d0dea6f25e83fec443d6976698abb1dc544f"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sp17_exam3_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2698769,
+    "sha256": "3c0a3ef9c71fae6529eaa2effc88a587ab547cb6c05f600243d86e1e63a6d43f"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sp18_exam3.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2299835,
+    "sha256": "a7fb41421f3d772173cf8ae0ab5684703c48aa9b205ef1eb6beeb6ad71bddba1"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sp18_exam3_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 3187529,
+    "sha256": "d168e8c12fa266e875ccfd1c49c1611426d91c53a8c6a11861db7fdcc24bf896"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sp19_exam3_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 5501301,
+    "sha256": "4f8c347bb72ac3b24166f41cd9e2e39530ac0bef0a74b785560012860c18674e"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sp24_exam3_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 10258026,
+    "sha256": "82b28ac1171de672596d2e6b13c493f31a63186f9ce91d9058b7086fd2f5e764"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sum17he3sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 131666,
+    "sha256": "961e9df9ddee916d41cbc3ab25474f5b915313e29a1071b39c91b00e75da76df"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sum18he3sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 137882,
+    "sha256": "db0511f4420c9c5dd38fd09ea0fd7f9a44b313491a6655d5b77ceab58169352f"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sum19he3sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 294604,
+    "sha256": "9681b6341859a5e9fb65dd117fb817f12a4515fd4655ad63e0e78b08d38dbbc2"
+  },
+  {
+    "path": "ECE329/329exams/exam3/329sum20he3sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1117077,
+    "sha256": "4202ecba5bf28199ebcc00a54bad43e6a34e5e6e510c26f9caff688e3f4c60ee"
+  },
+  {
+    "path": "ECE329/329exams/exam3/ECE329_Fa23_Exam3_Sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1499837,
+    "sha256": "c7ac595db4334f910c93349f0b15d7bc932170c7c67abecc3125392caa63f804"
+  },
+  {
+    "path": "ECE329/329exams/final/329sum20FEsol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1990355,
+    "sha256": "6be1a9cb2b20c515658d982b23e353df3a43f4caccc55db701de08a4405283dd"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/329_mid1_formula.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 208789,
+    "sha256": "be9e44409606e0250da9b5973993c825c486668c42adb983552e10ae17f458a3"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/329_mid2_formula.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 64101,
+    "sha256": "616bf89b96f07e3fb302a71bab1c1cd22a8a01a34013232f09fd8c3c39a54ceb"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect10_Capacitance_Conductance.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3573267,
+    "sha256": "9773d74dd6761c69c57bc6c78ded1a61facd130230218373d1a9a5b23f534348"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect11-12_BiotSavart_Ampere.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2257444,
+    "sha256": "ea20e397f2f5be972bcbfde95939c1eac016bea3aac432a9f2f4247161eebce0"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect13_Ampere_s Law.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2478795,
+    "sha256": "bec1f3eba190985345d7069a71436ede2634c62583784c060faefb86640615e8"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect14_Faraday.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2359766,
+    "sha256": "2f374d3f571bd40e1eae892ad902ca1cff4d2b74ef2205cbd294610d6c583dc8"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect15_Inductance.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4611565,
+    "sha256": "52d4f3a46ffd7aa68f9dcf70d0a83f77841e84daab3b3e614cbfd750c1996790"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect16_displacement current.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2139961,
+    "sha256": "21ec3d71dc3238c1e1a612a8cf74677839fda38575d1005c9578f0f266046839"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect17_Magnetic Materials.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2633173,
+    "sha256": "50b42129a0eec7aa6d1f1dd006f1e7eaf32c03ab1f63f4de9e6bf51007b3aa5f"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect18-PlaneWaves.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3473557,
+    "sha256": "765be422eadd3cdc897e654cb81165d01a8c48421e1a793ef7fbbaec2c94ad4d"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect19-PlaneWaves_propagation.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4282735,
+    "sha256": "230d2f991df111493cd182590df25c608a7b10f06e40f08db03d80f9b2aab70e"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect1_Introduction.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4432967,
+    "sha256": "c70b09c5598c9d86c725cef7b0a67b702d49581b55f3eb61da8f6830a9a90720"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect20-Poynting.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2435126,
+    "sha256": "98ad1e4e99f5a893f197a1d6b0ee879ffbb0caf68911ed09d770965ac451897d"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect21-22a_Monochromatic_Waves.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3923546,
+    "sha256": "069dfe09ec6af53e7bcf5c2463f5958ad4e409e7923f6029e4a019ad5ac4d19f"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect22b-23-Waves_in_Material.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3944714,
+    "sha256": "ba0ec7a85cff3f0bd6e3e103fef19a30a12e4a0d67b35dc4d1146128719789b8"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect24-Polarization.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2527519,
+    "sha256": "d8338418592c7a1ec03991dc6d754b1ba5ad2f688bb671049220593eda4f39bf"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect2_Lorentz_Coulomb.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3500872,
+    "sha256": "1fc4991dba5509b5bc5744e112aefc54fe720dd084356ef3ff9dc42c7e9e843b"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect3_Gauss.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3815068,
+    "sha256": "282f92f6f717987ed4d9c9369cc4ef6f95a16be60b6af3c39021ed30be430f8e"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect4_Div_Curl.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2898361,
+    "sha256": "4521cc3058cdbeed53a3503a83eea8d847c431228e91a8e5ac7b7447d54ca054"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect5_Potentials.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2956936,
+    "sha256": "239ff875e1cefaadaf0ee43ea35e2e88601d6126a8f6854e773af9d5009381b8"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect6-7_BoundaryCondition_Poisson.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 5734742,
+    "sha256": "921b64990f5f58085328b32b39f96a6ad76753faa9aa7af5eaa832f9215f494d"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect8_Conductors.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4693062,
+    "sha256": "90d1908ef10889d6e8c4f857048344475ed30fe72297172e50b40d56cdf7e775"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Annotated notes/Lect9_Dielectrics.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2582123,
+    "sha256": "f202e27d896a3ed4b17873babfc8cc41714fe044d6549aa9489894540bacf668"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/10:16 1pm lecture-Lect25-26-ReflectionTransmission_StandingWaves.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1331930,
+    "sha256": "3369cc3195b2363add9c5cef9d9453d5c8c3622f07757742063acc2d8b2e104f"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect10_Capacitance_Conductance.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 908185,
+    "sha256": "1afbbfe28dd34ed6c1210bb3eaa59e750c7a2678ad7a093ff6116dd8859ea010"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect11-12_BiotSavart_Ampere.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1042838,
+    "sha256": "0e2fba27e501db6c20f663a0d96094c8cc214f137f2d675381fc128c4fbedd8d"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect13_Ampere's Law.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 871673,
+    "sha256": "313ad17503e1f6ea431ba393bacfe5165a2d184053ed1fce6122a02f6b132954"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect14_Faraday.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 664693,
+    "sha256": "21d06a99f106d25c255446c4f0931bc5e094e755f5fcca1d96ecc699065d26d8"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect15_Inductance.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2332263,
+    "sha256": "f343d65fb7666ea2554cf1e00ebb86795d0c710f53cfd7f42a7fbde6f03c82a9"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect16_displacement current.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 549625,
+    "sha256": "cfe00be0dabc12e59d37dcc92ced0e71f8d1ba097a26d5498e2b2d97c77228f0"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect17_Magnetic Materials.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1679467,
+    "sha256": "b865b8afabf3b71c40438994b329669f064bb270f9af26b41eb8a5e58dbe1d55"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect18-PlaneWaves.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1686407,
+    "sha256": "4c401f92e2f4a8042d87f6f7f858ca1220b88faf874debb60fac75a9fb92676d"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect19-PlaneWaves_propagation.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1534836,
+    "sha256": "1d7b65a313065fd71686f1dc6d7748a2375a53b7dd7832d822cd7d1f433ab692"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect1_Introduction.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3479702,
+    "sha256": "5300b1097415a21119b4751afbba1c0b5f25043811fdc0ace7af5021d69ee418"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect20-Poynting.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 616510,
+    "sha256": "213b2fa5dce7b802ed185c3390bb137bb17be28942e642e77749a7a9236171e7"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect21-22a_Monochromatic_Waves.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2358879,
+    "sha256": "bd2da937326d51596bfdcac7033dc8e25f00d2e3351d9d23792aa35a68289b6c"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect22b-23-Waves_in_Material.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2093491,
+    "sha256": "34204aa82fa49e66193cbdb3d146dab2d285514bb86c1797af45a6b3dc489049"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect24-Polarization.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 800440,
+    "sha256": "9b279bc8e9fb02792d762eee8c8b2ae778adcf11d5c0c71329f6e6057765b4fe"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect2_Lorentz_Coulomb.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2783493,
+    "sha256": "0e5a476f122d10997798d064dc369caf2a2c641a5040fe116b37e342493d0b44"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect3_Gauss.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1240168,
+    "sha256": "855871181b1fc2438e7cf66c6d00ec90a11d11c62d36b087d5ab463c67dceeea"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect4_Div_Curl.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1531035,
+    "sha256": "f90bb0861a0e3da442d2315f2ebff2827334c6e17c2f03b1060382e35056e00e"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect5_Potentials.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1613297,
+    "sha256": "fd3678334c085ca72f6ca80b98b7d454fdd9753f7e02024400bd3d8136cbbcf4"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect6-7_BoundaryCondition_Poisson.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1359803,
+    "sha256": "9bf95825408b82353e1b494f4e3d30ac688e534c917991f26f68bc6dd61298e2"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect8_Conductors.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2296531,
+    "sha256": "b120032a50fab8aeeec46c4483b963404407ab55cce262ca317df492b9b9d7ea"
+  },
+  {
+    "path": "ECE329/ECE329_Lec/Blank notes/Lect9_Dielectrics.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 975967,
+    "sha256": "6c1d123078acb87e290b1e40d89004c3321dc51a509e8f58b1c6df58cd95bf5f"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329fa26hw08.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 2529965,
+    "sha256": "812c7a64c41cc9f3b3a93019501561990a1b57e7a3db036e3474e0c948ea3516"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329fall26hw1.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 223387,
+    "sha256": "628b7529aef1e36dadec0d5aa615c2649fbc27c44f89cb11e7e559b9ff1d0734"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329fall26hw2.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 242971,
+    "sha256": "443a68deff1c91730a4d761e4ad84ee40476f460fde8f1c2faf25ed1c0f8dee9"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329fall26hw3.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 273640,
+    "sha256": "f16448c5623418c82125c438983d9c9df9b51795e90d46d8d57b4aa2c6c25521"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329fall26hw4.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 365708,
+    "sha256": "fd728cb132772e022fee9cf0e44effa8106afb80605311d7ed7f460c48fee9e8"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329fall26hw5.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 482036,
+    "sha256": "31d52d0e5e1175758a14136d7a445bf50bec0f5676c262b395955bd7eac1d22c"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329fall26hw6.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 416827,
+    "sha256": "514b150ee2baa1b0bbf29bd403a80bf35e9bd4a82f83b7645d279719a8651e5e"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329fall26hw7.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 280760,
+    "sha256": "ab9628936c45f7b0b8e50b44f13615ff383ac2f95d037807d91970ea0607b64b"
+  },
+  {
+    "path": "ECE329/ECE329_hw/329sol/329fall26hw1sol.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 268036,
+    "sha256": "f1a101b73212c7310131a357be5d260f110e6f97781ae82ca9c0844dc6fcb474"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect01.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 285338,
+    "sha256": "a64c0c1c4bc494e9aca583c05ca73a74e686822f9bac4cf72ed7014a097faae1"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect02.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 214103,
+    "sha256": "cb947a4d251f30b0eee751eb1edafd03a9cca2c0932dc115e583bb55ba3aa263"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect03.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 164547,
+    "sha256": "310bfde1c125334af9b680eb344c6998a38d6f51b74a4dd7fdcf194229b3bd19"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect04.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 713570,
+    "sha256": "6e9d242aa395cb6ad158f4d193920d18697ccbd4c61c70d91808c3d87ce94a2f"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect05.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 287391,
+    "sha256": "e5d7a974694e86baf6e1d1be04d1c224cf017c178428c4522d7777fe77a5b5da"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect06.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 182444,
+    "sha256": "c424217850fb1873acf0092670dda4274a3f12ccb55728beab9f2127622b7e3a"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect07.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 136867,
+    "sha256": "01d7fe6db1855e5f130056e6e1d8a2cef8c38597abec60e52c4d3b78dd82f767"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect08.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 130161,
+    "sha256": "bd827118b408c6daec42e619e7a3674ce03fddfd0c61a639df6048cb1b25af10"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect09.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 118753,
+    "sha256": "0e65912aa76dc4d394b9c56ce09b53046341827d09bbf7493246a6eb94add414"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect10.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 101741,
+    "sha256": "bb09644e24fd427792d9a254e8ccd37baa2c710b34bbfe06077dc5571bc5ee72"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect11.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 138589,
+    "sha256": "026cbafd526e3f3ae1821d9b6ddfbad399e3ea1501a834af754c5c377d391f39"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect12.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 166437,
+    "sha256": "70c655815383f4c90f9d255c476c8cc61ae892fb5f272451f1343d7fd1515016"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect13.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 232255,
+    "sha256": "98f644bfe3100e14b7c138cbfcb0591ab2a5fb76935bc6d32e1a03113ea27441"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect14.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 325737,
+    "sha256": "b5cc673d31febf8b219b3628f661bf5db7eebe6bbd0f54b31dd5c6eaef97b073"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect15.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 142641,
+    "sha256": "3fe29eda60e3c15c801dc3ebbfaccf01b53e7d39b36ae8fef835c80e4c4f04ab"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect16.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 124400,
+    "sha256": "033f28a998a6d6419dde2e396b15ead60c1d9b5562ac29e7a2b723aacebbd00e"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect17.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 71042,
+    "sha256": "5b1aa3c4257117ce904c103be1d0f2c2c7f076470cb686ef11592d9497d0eaa0"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect18.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 101974,
+    "sha256": "64ce16d9f86e00ad9bc4731450d50cf6bd2761100ad2a203ade3587e15155449"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect19.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 207270,
+    "sha256": "cbe1ceacb10feecbb08d828cb9a240694b89d8ea38bf50220f29ad7a9cf134a3"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect20.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 82682,
+    "sha256": "3cf5b4af06d81af1230aa4b1ef4425fa312b5b72bbd65052820f62d42dc36db4"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect21.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 284523,
+    "sha256": "607f3326d6eeeb851bc83fb9157d2f1f880500dff3240de845c7bf7a0f546a67"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect22.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 149181,
+    "sha256": "820c4cbd9a3282436801fdc1be618bc627354b0655c6f1f9461bf67d87f7072e"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect23.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 79315,
+    "sha256": "5294cc32b6be5e5d8466842d42da7fcbedb9a35e954621b3be53e9340009dd9b"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect24.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 138453,
+    "sha256": "a8821b74c272fa82c4769480c8d20ec08cbfcf452f56f3fc2ff8a48eb2e6a0f7"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect25.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 108825,
+    "sha256": "e4646146aabc2251c754ac47f040fb59288323609ad9a505b18afae125cdaafe"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect26.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 260172,
+    "sha256": "7ff783e977e0f4ab6ee9ef8f40641b94e5078fac122de77fef33a7bc52527184"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect27.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 132411,
+    "sha256": "dd7513d570c5cffedc21c474f12f9940d71783ba52f1b3331c9764a285588366"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect28.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 148634,
+    "sha256": "79d25cb6eec43eb84508ca985dfc402670aec1237c457937cbfc781ee5eef115"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect29.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 141347,
+    "sha256": "6463127268205d0af0c16165f2a7d6e31a857975594a085dcfa01f4b6f153a5f"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect30.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 120374,
+    "sha256": "a71ee2f20cd39bf0c2b99411aa313e8ea4951c2a4a365cd92e454db8c81bcedd"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect31.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 208674,
+    "sha256": "54c9947afa8077256c06ff37deb785149ab9945ed7894bc9644ec5c67a47c98a"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect32.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 223226,
+    "sha256": "111925c55b919a60c3d8a838e1adcb9620f28f838ec2b48466b5c91914bfe2cd"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect33.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 142951,
+    "sha256": "cfcdd322a130e92682f2f558fc5b2e09f46fd8528864c18a2c02ccf50a4d46e4"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect34.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 294184,
+    "sha256": "39e022a2be8b465019eb60ebceaaba9b5f096bafbf75a528199ccf461dfdc336"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect35.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 425295,
+    "sha256": "b9dcbb7e8692286abf182a120efe290ee7c930ed63e440cb11db1b5a7d0875f2"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect36.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 470074,
+    "sha256": "74da48f57b43bcb490ee0eb3a94092d1dced5d44b24248783ecce021589ff93c"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect37.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 262435,
+    "sha256": "9405648ab60b908fa3b42a1a9f5d6e5e6f7c28ea0a7dd7d7b3fd711a61ede747"
+  },
+  {
+    "path": "ECE329/ECE329_preLec/329lect38.pdf",
+    "category": "课件",
+    "source_note": "标准prelec，独立于实际课堂notes",
+    "bytes": 63206,
+    "sha256": "da6c8ce762a994fd28a66f053f57845e1f81b4cfdd959403e84bf76d4424e6a9"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw1.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 192634,
+    "sha256": "6b395a1edf7d05547896d74f29e797b77e3b026d0125634cd3003b49b5f21cf8"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw10.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 166755,
+    "sha256": "5fa9cdfd49696dbcb28255b6c34e6d3598e768b214932c33522b4bed775854cf"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw10sol_grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 327511,
+    "sha256": "05edda1bf922b7281a8361a612597766886361232dacf24b985c52232cb9dd7b"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw11.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 269359,
+    "sha256": "8f72e58bec63bfbd5419d1a02d19e84900f48e27df5dbb51baab10069f903772"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw11sol.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 218675,
+    "sha256": "a48143f73877a2e4b29abd0f24428ca5c3b2c89b726e6f50044fc0b2b4f1ca8d"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw12.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 320503,
+    "sha256": "8a34fda44338b8d21425168736f193ec351240e053dc58406f5716284f638c6a"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw12solGraders.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 310526,
+    "sha256": "a499d16f254cec8be0c1e037abc80ad5e5e945e5e99e620bda6dc7b182e46d54"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw13.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 119991,
+    "sha256": "617b568638fc05b0cc1945a3acf7e9966019d2efc21f6f6e8d9294a5158c25bf"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw13sol.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 1916241,
+    "sha256": "436f1caadf1426f1ed66dc22bb738ea7eb5b6036a9b887bc628f8bc9a986df00"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw1sol-grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 1603611,
+    "sha256": "5c5690f51bbb09b0ceed15e4d4528094e72a4d47459a3b24b9bb9467b82633ec"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw2.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 304889,
+    "sha256": "8055d4d9a960844d892cf773be34bfd7666750ab8af24ac0713b44641808fb94"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw2sol_grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 418443,
+    "sha256": "6d0d9dfd29079612bc8b1cf76b4aed0637253b2fad15efa9062313e4da44b877"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw3sol-grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 352745,
+    "sha256": "70ff5d338ba0529259ab4759b1e8d709b181bd2407bb38a8d551152a48a12dd6"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw4.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 277046,
+    "sha256": "c8d52e8d133d273460570bce5a988e8c9fbece44b8a57b77e8339c9557358e52"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw4sol-grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 1141335,
+    "sha256": "e254863c1a4797bb16938e9cf450a36448c63753bcc7c6603148c65a7a8d3de0"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw5.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 192621,
+    "sha256": "7e0a46fce46c145a6dc1a99eb81d57112bac52e06708cb9c71cefae20aef6a2b"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw5sol_grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 447709,
+    "sha256": "0f42e9dfb577a7a7be4f7112dda97c03567a197c390683306bd2979020d03f2f"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw6.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 601972,
+    "sha256": "624b1b4d5d596099d0278fe2ef8d934b51522ac1eec83e12d16bc6b2b9d9f920"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw6sol_grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 188909,
+    "sha256": "c90e8b60677e60238bf9bd24aab0294c4ff0af74f765a3fc91a4f0dfed97f3ff"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw7.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 276294,
+    "sha256": "be52ff60c717b99b3480fc24c6147fc946d46843913f67770b25ee1ecaa1b4f5"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw7sol-grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 415339,
+    "sha256": "d54022952ca96d679e8d4b8167f4d036b373c9a8bc6b2122ce6070131928243c"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw8.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 180851,
+    "sha256": "793ee303b58e4a2b9a0c0db84d52c933df0962d52e82d3a0e3a40feb5a180310"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw8sol-grader.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 314097,
+    "sha256": "312bb93f44051959c1b162440bc216b9988bacc70dfd2ef81a7a09df18d1a94b"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw9.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 192564,
+    "sha256": "34d9a422b0e5827fbb7c1ca27c4c8e1ea3997172d37efd86f4a87011fd9a8cdd"
+  },
+  {
+    "path": "ECE329/reference/2026/329fa25hw9solGraders.pdf",
+    "category": "参考作业原件",
+    "source_note": "历史参考题面/原版解答，与当期分开",
+    "bytes": 236536,
+    "sha256": "a7fc2b7b3511a07de925bb73352ec6bffab6c2b4b54df5591f6176f0b2a9b4c0"
+  },
+  {
+    "path": "ECE329/reference/2026/ece329lecture_notes.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section补充，原名保留",
+    "bytes": 9215407,
+    "sha256": "43494ed13f77a17c2d8320131b9f7e54c3c7eeddf036fb2a2f2eec44fa98727b"
+  },
+  {
+    "path": "ECE329/reference/2026/formulas - final.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section补充，原名保留",
+    "bytes": 292659,
+    "sha256": "86625b4ef6851341f94422ac96f71fc41a697806204668cd3f75666ed6befb85"
+  },
+  {
+    "path": "ECE329/reference/ece329/Goddard_Cunningham_ECE329_LectureSlidesFullSize.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section补充，原名保留",
+    "bytes": 11985464,
+    "sha256": "6304658bd60f5b7bdfdbcd9c2fa68f02717463b15d1a98daa121d05cd2612f48"
+  },
+  {
+    "path": "ECE329/reference/mid1/ECE 329 Exam1 review.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 1973441,
+    "sha256": "2e3899962b27b5340c671bee065f9c1c368526d5250b1fa9b4e5ad9a54852ced"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect10_Capacitance_Conductance.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 892854,
+    "sha256": "d89a61ee93c4dac853e0f96db59d8e88bc0b3a4f9a339b57bcc73c7882eda04e"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect1_Introduction.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 5278286,
+    "sha256": "fcbf2c983e63632f5daa62b96c9bcc52dcb730fee42cbfa62cdc26819630b9dc"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect1_preLecture.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 731822,
+    "sha256": "51e3cfade79cc33e277dda761aa844304bc63de222aa9c955830032dfd7fa67c"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect2_Lorentz_Coulomb.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 2786557,
+    "sha256": "3f7d5819f2dedaaf2ca88b09da19c1bc6ca0f98eb5ff9542b82637bf0cec8e4f"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect3_Gauss.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 1210301,
+    "sha256": "91f649ffe21ada7b58a54b1cdde495f08ea208e44a0c43487635cd2a27021973"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect4_Div_Curl.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 1719710,
+    "sha256": "310c465dd3c75b6d283dadfcceefb38278d4c2bba00190dd358124a2d6d8ad10"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect5_Potentials.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 1157748,
+    "sha256": "7d33df762efd3330afba017eda0449f370f81ea809cc8d0979dd064e0a903d1b"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect6-7_BoundaryCondition_Poisson.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 1248831,
+    "sha256": "a97e38967b51de80f95901ecf99fe3a5350b4a73a9f52d8b7ab3fb0cb3224b7f"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect8_Conductors.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 2293491,
+    "sha256": "3a5ffeefec926a03eaf248170b5f31fed9d711ba142eb77c102169f000b6f874"
+  },
+  {
+    "path": "ECE329/reference/mid1/Lect9_Dielectrics.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 663304,
+    "sha256": "4c1d57f27afc38e8b74bae33f60761a308f66266eaf42b845d208d398cc28173"
+  },
+  {
+    "path": "ECE330/330exams/exam1/ECE330-mt1-fall24_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 54701533,
+    "sha256": "71fcbafe7218ebbb2e3a0b074326502bd610e1b69e3a67b6d8f212d3e3fd63c2"
+  },
+  {
+    "path": "ECE330/330exams/exam1/ECE330-mt1-fall24_v2.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 333005,
+    "sha256": "1d35c5662303296829877203f73368abdbcb8c7c724c8aff66af0bb45307df13"
+  },
+  {
+    "path": "ECE330/330exams/exam1/ECE330_fa23-mt1-exam.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 249457,
+    "sha256": "9f1f0d888364d607a47b526cfc1022f072a93a1f367ada68f066568d552774f4"
+  },
+  {
+    "path": "ECE330/330exams/exam1/ECE330_sp24-mt1-exam.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 567059,
+    "sha256": "54cae5902180a78934155ff346a5efc726421bc9cb0181f568eb395e22c62cad"
+  },
+  {
+    "path": "ECE330/330exams/exam1/fa19_mt1_blank.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 396000,
+    "sha256": "c1c0f8ce4dde128d00e5f51d2046b6572daac5935295c209859a49a781445081"
+  },
+  {
+    "path": "ECE330/330exams/exam1/fa19_mt1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 3694607,
+    "sha256": "bce41b5deb69b3bd512e23a748b6916c75f2b0bfa1e1e2427822f56b773682c9"
+  },
+  {
+    "path": "ECE330/330exams/exam1/fa21_mt1_blank.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 273046,
+    "sha256": "238f94f4c00e1a67a67bdd707c48b1989241088b7c789276e347486038e08dad"
+  },
+  {
+    "path": "ECE330/330exams/exam1/fa21_mt1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2049653,
+    "sha256": "c0f93633b2009068a2a346493b783d24b4892cc541a0205f4eca8de63b3497b3"
+  },
+  {
+    "path": "ECE330/330exams/exam1/fa23_mt1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1359590,
+    "sha256": "b590645280f4feaf7854380c28bb3308454ccbbe4ee29c3814832c75a5c54130"
+  },
+  {
+    "path": "ECE330/330exams/exam1/fa24_mt1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 54701533,
+    "sha256": "71fcbafe7218ebbb2e3a0b074326502bd610e1b69e3a67b6d8f212d3e3fd63c2"
+  },
+  {
+    "path": "ECE330/330exams/exam1/sp21_mt1_blank.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1019979,
+    "sha256": "ec067895331b48855ef9e184bf555013830de20a0b7a996f7b699b8313f3fe8d"
+  },
+  {
+    "path": "ECE330/330exams/exam1/sp21_mt1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 3817600,
+    "sha256": "5cd0e720530c36fdbfb708b7093df22ca2ca2ede79361cd33111633179203847"
+  },
+  {
+    "path": "ECE330/330exams/exam1/sp22_mt1_blank.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 495473,
+    "sha256": "366de5dd830121773e9bd13f3bfd7db7a5d339066e82ab4d773cd20415d30335"
+  },
+  {
+    "path": "ECE330/330exams/exam1/sp22_mt1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1259312,
+    "sha256": "f3cad12d37244524a49fe596579e565ebeb6176de181eb8bbe856bc8c10dc795"
+  },
+  {
+    "path": "ECE330/330exams/exam1/sp23_mt1_blank.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 205689,
+    "sha256": "2c28957372dcfce4c4bbc00c03ef93525536d3236b9656ccb744dc48126832c8"
+  },
+  {
+    "path": "ECE330/330exams/exam1/sp23_mt1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 4877373,
+    "sha256": "559517c642e672409857b18eb1c0901a6161972bf52047d00a8358a5b9914d82"
+  },
+  {
+    "path": "ECE330/330exams/exam1/sp24_mt1_sol.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2552406,
+    "sha256": "8d42c34aefc703ff2cd36a7b98cde88d0e7ec30dd68bf89dac3c140701fb9931"
+  },
+  {
+    "path": "ECE330/330exams/整理资料/来源资料/330 final exam formulas_updated.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 102837,
+    "sha256": "6922f27af5d4e93a81f5e98db2b35cffac4c78e3ec3fd5129c10e7a7a6d413d9"
+  },
+  {
+    "path": "ECE330/330exams/整理资料/来源资料/ECE 330 RS 1.pptx.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2785570,
+    "sha256": "926bcc8dd5d916ccb03e5635e989fe83bd243533cc011596232df690c3005e06"
+  },
+  {
+    "path": "ECE330/330exams/整理资料/来源资料/Exam1_formulas.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 114530,
+    "sha256": "e34b8787a323f63a524d4bda9b4c17eebc7059caf1060176015a17ad1e997952"
+  },
+  {
+    "path": "ECE330/330exams/整理资料/来源资料/ece330_mt2_formula.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 116482,
+    "sha256": "c6f725161cb8478c661ef39a738a5378f190568f0ccafc2488e4872af9baa0ac"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/330Lec2_ECE330_Lecture2_Professional_Notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 852307,
+    "sha256": "ca2b80fd73e39afbbaa48d496689444aac4526ec5e66386b64b8174765e0b778"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/330Lec2_Lecture2.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 284237,
+    "sha256": "b035595e823d7a036e555a81f85f5905d0ad1c46ee7c61c90d369f946a8bfd96"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Course Logistics/CBTF Document Camera Guidelines.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 482174,
+    "sha256": "7bb6d19cd6ec54d57b5f8afda049ccd4f56e0b2337c7ef1f434b807db41a2fef"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/ECE330_Lecture2_Professional_Notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 852307,
+    "sha256": "ca2b80fd73e39afbbaa48d496689444aac4526ec5e66386b64b8174765e0b778"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture10.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4281800,
+    "sha256": "d590657a0e6adaa7b0fdf9700a0e7f9d21f1d69a8d632f7e051fdb3b034c1674"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture10_inclass_handwritten_notes-1.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3334945,
+    "sha256": "26c794452ecc83e6e9cde4f78ee2e4db4d28e8cffed7e72ed659f255a1b63002"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture11.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 6380831,
+    "sha256": "95a1d5f431fd254a7e2ee9b66a389c75caeab4a3637cb2b5d2bd893c29b7b516"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture11_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3371199,
+    "sha256": "726c9ed700bf88abfd0d63156023b009e5a4da31f61ea4f4232665f7dbaf0966"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture12-1.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 7628588,
+    "sha256": "ef06163e04204c1044fe69218779b020ca5eecb1edd3c5ad2944c6df7435a813"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture13.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3971211,
+    "sha256": "fe7a67bdc369033c275f9bf7a19c2df003b6eca0713fee73c4c0edebe9fc81a6"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture13_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2266249,
+    "sha256": "47199efa04c7a06e8e55df65fc5ff362b6737c2d4b3a7823beed8299eb158220"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture14.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 6140324,
+    "sha256": "a50181854d86fc17b9097cb858be6ba035a69298630200b1da0e5710ce7b379c"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture14_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2279563,
+    "sha256": "14fc07cf441cddd33f3a4d2d3b85617d4315a294742ac1475f2e149f7cd08d2f"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture15_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3607011,
+    "sha256": "4660c74f76f33d81e0803a6bf2892b4fa217ecbb7492a3dceb7f0338000c7b76"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture16.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 6067577,
+    "sha256": "9fce01c721a488002bad5b7617245052587baf6cce2f356f23ce8701d3098de7"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture17.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 6003951,
+    "sha256": "78a71b7477df9f96ac734292df28df1e710e1b1a937800b9bd79369bcd0a38ee"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture18.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4319298,
+    "sha256": "6e67d0828c1b47d89445c4a26a083ab9c05345f46784a48ef70ba1b36b23f206"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture19.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4403589,
+    "sha256": "693fc79dde59904e3274aa49893c65ccea3c4232d34d9a98e71cd8f5b9335d9b"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture2.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 284237,
+    "sha256": "b035595e823d7a036e555a81f85f5905d0ad1c46ee7c61c90d369f946a8bfd96"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture20.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 843557,
+    "sha256": "5df53120b2cb9820d416eacc28e0ecea22e4ef82244c4d8605edb46c0ae5d85c"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture21.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1379309,
+    "sha256": "01b76abf35f263e2a38442af8691d8a6dee2b0962eb5361954906b42e4de2035"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture22.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1308017,
+    "sha256": "ebd606d8318650c2d2fa1406ccebbc9d18c8fee640f1d3f6838ad8202124a53e"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture2_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1447205,
+    "sha256": "951fb298f07e685d7400d239c37b2765e9e7a5e0a6dec6cc123cfda434bffe2d"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture3.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 7810671,
+    "sha256": "682d32f43304fe255d0777eb1cc9699ab9a3f63c6889135daa297ae5576b3b6e"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture3_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1929717,
+    "sha256": "a0f79a05123cff7a4c02fef2bf556980c8ab76fdf02152bbcb865496465f1be7"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture4.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 7691087,
+    "sha256": "b544e54365f26a5acb3acecd66e34c2322a342fa638f957fe45b52833f2eb62f"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture4_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1450669,
+    "sha256": "dc46c262f596c4107ae5ca99521c4d3b01876f2c94a8f6be75ec43ee986a925f"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture5-1.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 7868930,
+    "sha256": "1c3b60239e152ceaefe2ca119fd093beb75440fd52f568a467710882211cb053"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture5_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2334183,
+    "sha256": "e1ee99974b8f44e12f9e2171415f4ceab632c434a70d5e5bb0028e93bfc4c4ab"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture6.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3997860,
+    "sha256": "bcd9087084dc34121174c0ba5ae9ff908c44a723d64aa768f602605888a77894"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture6_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2830196,
+    "sha256": "7f08ac8407eeec59787103a0eb73c82561aa47ceb7520e89f54a20b4073ae466"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture7.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4225531,
+    "sha256": "530a5bbd3d33d6434e53f705e69f4004df7277d75580f6e96eb1c42a16466143"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture7_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2834270,
+    "sha256": "1750b93cbc82bfc0fc77b31a07d873e00a0e196c32b8206ec5c2ea2f8bf615c3"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture8.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 5940232,
+    "sha256": "45b735d53b4ce883d01a4617d659e606e0ebabdabf70d2e949d26579f9535779"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture8_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2346064,
+    "sha256": "50adf77c09861ac4183b2257f01a2e7c8452a2a16966c088ca712c665f76419d"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture9.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 5653623,
+    "sha256": "04a295960f5db6be9b0658a8df0ca3016d880a2d1e3583c0a93d230be14c2444"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Banerjee's Notes/Lecture9_inclass_handwritten_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2410585,
+    "sha256": "0e8acdddeb14ee806d916d574671cdbb0cbe545b46d795df65b5900dbf7dce6e"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Exam1_Review_330_blank.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1796258,
+    "sha256": "425c0fab55b1e275618c6ea38662a3fd9539dab2b7aedbfcf2421b931d048fda"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Exam1_Review_330_fall26.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2494743,
+    "sha256": "348a8d9f29bb1f1f43c29580e4a03cf8fd9475a5369d12ae3aabbd64786d8d10"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Review3_ECE330_fall26.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1607315,
+    "sha256": "3725fa80d02680161d8c550c94194f2dfaeb59b2ee8c6f48296018946d5f1c2d"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Review3_ECE330_fall26_blank.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1167939,
+    "sha256": "87f27f9fd20008fec5e4d5700033b83cbdd8c257f242974c57d1538485c4edda"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Review4_ECE330_fall26.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1419039,
+    "sha256": "ef5999d1ab0d24dd0703d8c7e3c8c2262a65d3703aa8f4423c947f5942327f37"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Review4_ECE330_fall26_blank.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1043155,
+    "sha256": "84a6966b956f2d4d9ba77d940cd9abb7018b461cb0d7427de16394bb1b79c19a"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Review6 _ECE330_fall26.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1430633,
+    "sha256": "1c913304849440dbca241329d9dd0bc9bef4b73f9ffbbc69737f509715e26a0f"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Review6 _ECE330_fall26_blank.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1430433,
+    "sha256": "46c19c3683c4650770a64c7de77e3898737e4ec909d23d9ac4b28749889de8e3"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch2/Ch2_after_08_24.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1429767,
+    "sha256": "d98842a107e4b8b84e7bdff8ac2bd62c0be275e96ae2c2db2bda2bc503db6194"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch2/Ch2_after_08_26.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2446887,
+    "sha256": "e4580d427e72192eb17e3ea76a1a1e61e0244804bcf57c3ee33c8c3edc42a637"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch2/Ch2_after_all_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 6678967,
+    "sha256": "3a29f90ae7bca3e7c164e46b05e00e3db995b54aa21e5f33bb36efddbfd0ad36"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch4/Ch4_after_09_11.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1502953,
+    "sha256": "a1aaa20907ab321a412108b84f6ea04318e76a12efc7bd07e4b3e62ea30bb5ef"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch4/Ch4_after_09_23.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4835969,
+    "sha256": "a988c6eee51498fcfacc2fd1ac55d7edffb6f375a27ae29a12f43d4f038e7b60"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch4/Ch4_after_all_notes.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 5976622,
+    "sha256": "8050ede53089eb89e6f4b4cd052b96335e1448b5db3e9bc0b31fb467cd63d85e"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch5/Ch5_after_10_05.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2291251,
+    "sha256": "5da7aba007a422a2d27059deedbe25823eeb2c43637bccce38f58f0a3f524aa3"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch5/Ch5_after_10_07.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 3269919,
+    "sha256": "bc70c2bbadecd3d2020d652795e40fc958a1e892e639da3a8150c62e92f4f76f"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch5/Ch5_after_10_09.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 4402052,
+    "sha256": "ec2658a9c5b4f02b1d8f88c33294e88b3c938874b727b05d8569ae6781baf18c"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch5/Ch5_after_10_14.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 5467869,
+    "sha256": "fa46454ec7e8b586ed9effe55cee753d06efca2f8c16d8dab764a601734f3f35"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch5/Ch5_after_10_16.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 6602292,
+    "sha256": "2365f30a336c8aa24a8dd07d14a8a4e43a40f25a1c366b300e253af185df6b2b"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesBefore/Ch5/Ch5_before.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1587470,
+    "sha256": "6188cbaf82a97f7ea31fa5fa6bf3c3277da68f9d73b51ab1c901ebed00ebc5f9"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/Slides_before/Ch2_before.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 858005,
+    "sha256": "a745cfd65c591cb4223ffcfb98b38ac6478c370000d5ef4f7c4e14a4dc8c7188"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/Slides_before/Ch4_before.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 595113,
+    "sha256": "6eeab408c2c39f7c3f8b69c01f8a655c625526813ff90aee6039b417e2c8166c"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/Banerjee_L2_p5.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 190265,
+    "sha256": "dafafd8373daad369820dfd3ed56d2853467b3e674450b124f07b6a25199167e"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/Banerjee_L3_p3.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 255378,
+    "sha256": "fc50621e9553b3b39332d22b7e4db751f38e9892b6587499b5de215e065a49ff"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/Banerjee_L4_p5.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 282373,
+    "sha256": "e81dbf389039556b48f4305b173a61026acef3be282011946b2436f4ded7c794"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/HW1.1.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 25765,
+    "sha256": "de17c138a4c14b9374e4ce7600a476e54b9cd466e1f8f6e7b35181c0fca50c03"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/HW1.2.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 26020,
+    "sha256": "306565a0ffc54a0f80b6adec9b7cba1e801f2a79553be602e373c8364ee4a87e"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/HW1.3.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 31761,
+    "sha256": "94aa0a0556a123426750d3787796046620331008c53d0ae933018ad5f2a8b496"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/HW1.4.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 28295,
+    "sha256": "772fbc13c421aa2b876a74f802177758fc30e2c979c1ab704343816e2ad46d1e"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/HW1.5.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 29530,
+    "sha256": "1d3be15facab3ad330cfd54fcd0292ba744aeb0c576d0f31f7ee08e708030d7e"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/HW1.6.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 32520,
+    "sha256": "9710f47273c9d4399db64df8fc8515d516a9acf031baaf46245f3e59961ffc36"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/HW1.7.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 36114,
+    "sha256": "d9d06d43f74d90c9ba11b795eefb842c0727ac39d9f8d1816fa70f080ce17735"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/HW1.8.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 32554,
+    "sha256": "1e118f789ea5a1e45a2fce6becffa8e09f01e43d3a6f0bffc289e76a396e475a"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW1_assets/questions.json",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 418069,
+    "sha256": "ee2fdaa87d99914e161a17112124c8fee46569361b030c97bd26b9b352d07b29"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/HW2.1.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 39335,
+    "sha256": "36245e14a6f402506bfd1957cc7a06a6c5370691466e457440f3da283f4872c7"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/HW2.2.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 43070,
+    "sha256": "1a04bd2c306aac2fc3882292d007240a2da7761280c1911462382ee27eaffd43"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/HW2.3.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 40238,
+    "sha256": "c213413a1cc729fc63cc2346ec0847f03c59e45048766decac90e963fbec9fa5"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/HW2.4.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 41030,
+    "sha256": "9d06a5e319a7bf4780b81d2828954c359d1d1b6daa64910a1af9bec88617f278"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/HW2.5.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 40773,
+    "sha256": "97f4c0da49e9a57a242f37de1e6372af8f28a2d260675306ef4dd61b5d4fe809"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/HW2.6.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 38147,
+    "sha256": "ba61af9a4b6f81e5b720efa638a8af91ae7816b9b59597f73dff868f698f056f"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/HW2.7.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 36081,
+    "sha256": "4f7107c8f16f0eff6ff4fc269e8ffb3024947ed493a399b0aa045b08003a8e42"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/HW2.8.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 46937,
+    "sha256": "0be03f81895359e78519dcca1dc04fb59ce6315c17fafde0874298d98b0ff82c"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW2_assets/questions.json",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 157504,
+    "sha256": "0f6ef50b3cce977f0d37f01f75dc9dfbca893d6dd20d0b6651100471429e359d"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW3_assets/3p3.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 161755,
+    "sha256": "9486fdd3e9e707a0130eaf75708cb77cda7a10039ec9f54db2adec18e4833de4"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW3_assets/3p8.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 127462,
+    "sha256": "60e18461908d64efa901a7febdeee0744d4845741d7cbfbeee290828c329f79d"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW3_assets/SP3p1.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 93278,
+    "sha256": "0007daebde11784a08c1f8b3d23dfdfda77cadf37ab51d44935f0b34a321514b"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW3_assets/questions.json",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 3494,
+    "sha256": "e02cc6d3ac4dd9e42ed74951523f0174034216a35c3c9aa4767d79f8a8ad1158"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW3_原题.html",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 526730,
+    "sha256": "b8adef074ae1ea793951b36acb2340ef0e182a6c9789e10413cc93b4d15f7a10"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW3_原题.md",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 3991,
+    "sha256": "2a48c66512ae8e86437ad5ff22fe22f93d930aa419ac2ba129a0dd6c6f1b9156"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW4_assets/3p1.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 260686,
+    "sha256": "25bc2931e8bab155621bb0f49680fa2d4298c6ee581e4b360d41104139c494cc"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW4_assets/3p14.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 58845,
+    "sha256": "c942b3418fcafc5443ff25d65ced6c006b27578af97b1bdce64cd596aaaa1b58"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW4_assets/3p2.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 105599,
+    "sha256": "c5171186a7080733676514bfae109c715b2b707dc105cafc15444f4fffa68d3c"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW4_assets/4p3.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 213197,
+    "sha256": "487932b94c0f6ef2a4932d01bae9a598b235abc0c39562e3a632ab0f6c46dc81"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW4_assets/questions.json",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 3229,
+    "sha256": "9688704d7260e4c5fb3f915eb96402a51222842e59fff097c912fe770fcc26b2"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW4_原题.html",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 870746,
+    "sha256": "4015f8d72df62a16a982c4d6c0c27d819fb5206313e91d380244f6f8cf17cd69"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW4_原题.md",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 3837,
+    "sha256": "92692eaa363bbc909e6c8fd8ab77a21a4e6e26dfdfcb848ab4a29f1708101a83"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW5_assets/4p1.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 181089,
+    "sha256": "8547ffba0c88368e968011d56e1da199ab221e4720d725bd4fa617c858bf1589"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW5_assets/4p2.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 159016,
+    "sha256": "7353db463499a102954a267f2cfadd8907de1a4da8d340aef939f646d3b576cb"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW5_assets/4p4.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 96929,
+    "sha256": "c9236274dbd71784a9245424a23d449c2d999022cbdfbbffe33265af7b011788"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW5_assets/SP5p1.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 35682,
+    "sha256": "e9a62d49fe65b20073bed03999b608d0f37fb5d1df292341fbf9a04395036dc4"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW5_assets/p2mt2fa19.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 94382,
+    "sha256": "97f23b033115d33b15a9de30b21db676949d6c4092a83839482f1fa322df9970"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW5_assets/questions.json",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 7630,
+    "sha256": "1cc704f8fab2c5b5d37c64f2316f88a0d562aa0e556a966cf46bf68326107101"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW5_原题.html",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 911049,
+    "sha256": "b2b3a17511361564444d123019336cdfbd68716c6a6126fa77990e6425d010d3"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW5_原题.md",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 5926,
+    "sha256": "7bc7ca16f744af143b19826aa3cb71638822f6ecc3e19cfecf533497606ad647"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW6_assets/4p1.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 181089,
+    "sha256": "8547ffba0c88368e968011d56e1da199ab221e4720d725bd4fa617c858bf1589"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW6_assets/4p2.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 159016,
+    "sha256": "7353db463499a102954a267f2cfadd8907de1a4da8d340aef939f646d3b576cb"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW6_assets/4p4.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 96929,
+    "sha256": "c9236274dbd71784a9245424a23d449c2d999022cbdfbbffe33265af7b011788"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW6_assets/questions.json",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 2890,
+    "sha256": "6556389d2fd56704ac61349407856c3fcda9ea75c7a24953c57f31d061519244"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW6_原题.html",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 842964,
+    "sha256": "1daa9c6640a9aafbb321c8849bd6403f67b8954bfb80396902eef012a087faf3"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW6_原题.md",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 3112,
+    "sha256": "e836e968639226e25494229389c230d68856f1c69488add6a6c3eea5efd5c20c"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW7_assets/Ex2p3p2.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 45816,
+    "sha256": "44c3498b4c859bb95a7dbd76fee15e31ae0b1bcebb0d4db708fd34058f01aaa1"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW7_assets/Ex2p3p3.png",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 517711,
+    "sha256": "0a2a4483aaa81ada20198ef2d6cfe1b2f520227b0745440a5d9700499da182ec"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW7_assets/questions.json",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 5248,
+    "sha256": "2b3a68015ce7f7b8914341ad059919c222783ec70614d18438d28c2e09f35835"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW7_原题.html",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 1473559,
+    "sha256": "c16e65b025a5fabcc25f6c26295d16fca993d00a6017cd5d2ef33c64893bdb9a"
+  },
+  {
+    "path": "ECE330/ECE330_hw/330_HW7_原题.md",
+    "category": "作业网页原题快照",
+    "source_note": "PrairieLearn抓取版本；无官方作业PDF；HW1/2题面保存在questions.json，分析稿不上传",
+    "bytes": 5241,
+    "sha256": "bda539ebe156f6a04dcb4aa30c426f00c1e0c15e53c28255aad648516db228fb"
+  },
+  {
+    "path": "ECE340/340Handouts/Capacitor.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 79526,
+    "sha256": "15b00226e12be5de495d93a91572daf19931acffa5d90b6f3fbcf142dbce439d"
+  },
+  {
+    "path": "ECE340/340Handouts/NarrowBaseDiode.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 1176015,
+    "sha256": "d3468920cecae260c277a5e23a72ed1323960a228f16355c08c00bf993e20974"
+  },
+  {
+    "path": "ECE340/340Handouts/Vector_Miller_Indices.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 76271,
+    "sha256": "5e127ecc32e3f7f2ad401397afe99103f904b31d26ae78c1565b29b39811618e"
+  },
+  {
+    "path": "ECE340/340exams/exam1/ECE340_Spring2026_Exam1_No_Answers.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 721235,
+    "sha256": "946c0638dd0fc2a713ee3e77778fa94acec5f0c6d50ad2e8f8bccf11c8c974d2"
+  },
+  {
+    "path": "ECE340/340exams/exam1/ECE340_Spring2026_Exam1_Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1260952,
+    "sha256": "e38038f3e0f7a1f827598d646a6d4b0fdf3cc9b0c6e491017e39024a4048e16f"
+  },
+  {
+    "path": "ECE340/340exams/exam1/Exam1_FA15_Solutions (1).pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 5850733,
+    "sha256": "3e5ec8f627e02658766c6bc22170c21a8380fff6295889701d7789a717dae9ac"
+  },
+  {
+    "path": "ECE340/340exams/exam1/Exam1_FA15_Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 5850733,
+    "sha256": "3e5ec8f627e02658766c6bc22170c21a8380fff6295889701d7789a717dae9ac"
+  },
+  {
+    "path": "ECE340/340exams/exam1/Spring03Exam1.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 954613,
+    "sha256": "6f81952ef194f5338a5a8af270db06d1ec24ab2e67ee8e503ea0ce031ccc3e5a"
+  },
+  {
+    "path": "ECE340/340exams/exam2/Exam2_FA15_Solutions (1).pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1471989,
+    "sha256": "d0a5cdbb6a64ae7d097005fab8dc3c0cded507f611b12d66eb65a47ab5fc031d"
+  },
+  {
+    "path": "ECE340/340exams/exam2/Exam2_FA15_Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1471989,
+    "sha256": "d0a5cdbb6a64ae7d097005fab8dc3c0cded507f611b12d66eb65a47ab5fc031d"
+  },
+  {
+    "path": "ECE340/340exams/exam2/Spring03Exam2.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1861706,
+    "sha256": "79278bdc6491660ca420ec8cde42e41646afcbf579520c57ac40ce3e0d7b7e85"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/ECE 340 RS 1.pptx.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 2911125,
+    "sha256": "9288caa65a8d057058320717b75f7c11aadda26201b11d86e8ae2a4bc6342928"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/ECE340F19-Test2Review-Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 138142,
+    "sha256": "972bf452551efae54be94618db150427c3286422d576fe2bb2194981d0740e2a"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/ECE340F19-Test2Review.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 81524,
+    "sha256": "d3e3759b20d0e3b94d5483d0ec5dad7454146850ffef8b4a8c5a3d6397bb3a0b"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/ECE340S16-FinalReview-Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 173495,
+    "sha256": "662e145adb0e0052f9d68434a2135ae76d68d22919522d0780c2ec560556fba7"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/ECE340S16-FinalReview.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 83824,
+    "sha256": "b1ac38ac5ef066b23548874f6bf65c3a851b926ad8336c0fcbffa5e39f3ccd6c"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/ECE340S16-Test1Review-Solutions.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 142795,
+    "sha256": "e4283c13b900e8dd942ebb03556aad3813b9a06200b7191900783dfa816036f4"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/ECE340S16-TestReview1.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 56333,
+    "sha256": "7ee2e091c971a98b855f94785593d3df7a31d4982f7b7ee3af728b2df0f4612f"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Exam2_Appendix.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 186024,
+    "sha256": "b19e1d18a4162cf91f0e9bf587937ee172be368f02eec8aa6868864e6c49fa6a"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Formula_Sheet_F26.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1844260,
+    "sha256": "5573b7fb321a02dd30b8713e77a4a7a50476289d43233c66a5bf24b45ceb2d03"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Informationfinalexam_side1.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 109871,
+    "sha256": "b4d38dec9bd9213c996010ee26d2213dcd514713cf7b65a6b85d3a3592ffc90e"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Informationfinalexam_side2.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 108788,
+    "sha256": "0ca310f1add1c9f3bf609020ab9609204914bedb8e9251d968f7aee62626f4e9"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/NarrowBaseDiode.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 12174521,
+    "sha256": "f6cf1a8d6956f03e34d1db4e44fcd5e9a53020bbf22706e4061288b759d87a7e"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz1_v1.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 212914,
+    "sha256": "5e46a9a5ffa2ccff2a6ae5be0fd6e9092ba817f7d079c1667676188ef8fe072e"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz1_v2.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 220529,
+    "sha256": "d2de239497eacad1ff106e53acb8d04e566d33c23267ddedc460d821907abdf5"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz2_v1.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 126369,
+    "sha256": "9ed05423b4ef2ddb3f557e1ee57b488f96aafb20f1dca9a9877d5f2b1e0f2e6c"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz2_v2.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 110658,
+    "sha256": "632b36992b61701aa1d6948db03152e881f5f6c2a87afab6ec88b07cadcaf86b"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz2_v3.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 125439,
+    "sha256": "1070553edd3cc7ab6e562c11ba4f53f80eb09c9a6258f2225f1653751d9e6c44"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz2_v4.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 109126,
+    "sha256": "eaf094ac3392f40f5e8f55985527eba7f1012fa4eb7ee8c46c74c6fc6bd356f1"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz3_v1.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1335896,
+    "sha256": "c565d0481c8934172630280194ea1287fc542df63bd184c26ae6f5bf2e7bad9c"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz3_v2.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1332067,
+    "sha256": "d9db1be2815391c998ffacb05715a561a6969184e41ec0d862493c00cb668735"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz3_v3.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1353471,
+    "sha256": "e5949e41b39df63ddf1f5fe1018b0ae99841d43a0c8127e966b566a18dc3a9c2"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz/ECE340_FA15_quiz3_v4.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 1322420,
+    "sha256": "25e5d811fcf4bdb596cac44d753d5fc4be7f001172b44c29fedb99fe08c60582"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/Quiz_Appendix.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 118860,
+    "sha256": "bcfe6163a43c91ea9be0ba329cf99dec4aa8a9b31242e66763389dadf0b12f58"
+  },
+  {
+    "path": "ECE340/340exams/整理资料/来源资料/ece340.pdf",
+    "category": "样卷与考试辅助原件",
+    "source_note": "现有集中样卷库；年份、题面/解答及公式表按原名区分",
+    "bytes": 3113421,
+    "sha256": "050fc13f7ea28e9249e7685c3ffbe921a83b5c7ccd5d212720364b11e82745d9"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L10.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1214325,
+    "sha256": "47c5b4f8c304d8891d98a3b7a9614fe86e476417993808e01f98e660d4f6bd10"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L11.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1199722,
+    "sha256": "6b25a8976d737fd6282af7fa9c4eac7190d1bea8383e7dc37e9e21c919d5de4c"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L12.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1225413,
+    "sha256": "8267823bfb19b7b55c5b6908c386f01255ca59a1ac048a24c1087e9f44be6e6a"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L13.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 920698,
+    "sha256": "c0134fb0a96f5b3d04f0e516cad91b6bad74bf93f1fb51cd055e9a9f23dfd3f5"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L14.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 850980,
+    "sha256": "a17cf032e7c4e51cd1edb9a6d8933f4f79166c1f5ac0ecd984c2a24b1f6a5053"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L15.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1142893,
+    "sha256": "b9bc5f9fd7a76ac8afb303850a8c9fbb56985d185814be2c1dfa0a63308c9419"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L16.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 954741,
+    "sha256": "c247f6e4e804f0c67056c154c64934b2b2adb31a3a7635f08f270364b0c8ffd5"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L17.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 875260,
+    "sha256": "804c66693f0209504c6c8cbd6b7b8ee5e5f7a576a9ed12ab54ff3a72e9d86c34"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L18.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1379383,
+    "sha256": "83598077dff70062eda2ded994ec579764301448fd13e17f416cc061d833ac61"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L19.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 529153,
+    "sha256": "d5498c54d5943b17299f4cc6e3ebfba186ad87c64985a64a3eca1dbbf7332763"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L1_Introduction.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2831217,
+    "sha256": "57074d823388da1db813bf1a8e04115fc69dfadbb1a5147c271712574047d7f2"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L20.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1374177,
+    "sha256": "c652ad0c5bb9f63bb4045c4a88827e7dc692e20d4f8669964f50feb87c17b450"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L21.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1154441,
+    "sha256": "793e8b083ae06cac828df33c4e96ec1a2a5e8a395de7662dfe4e7ac60fa34427"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L22.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2079335,
+    "sha256": "f213342ebd5fe600ac6caca0d04b8ca170fc867307ad6e269ec577d6fce885cc"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L23.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1266352,
+    "sha256": "96a3a83776ab4ea49558891f29a9a64991c1477a12319c80b6169ef80231e082"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L24.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1504907,
+    "sha256": "746033923baea95eefc49617aac66ce7d21a797387e12c7a49dcd99903fd6480"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L25 (before lecture).pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1903160,
+    "sha256": "2c61cd1e78da9441a324d7eceeaa6a5188988a0dc3f02489a1dfd5891a0537d4"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L2_Intro_Crystal Structure.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2720319,
+    "sha256": "f1bf6e35bf96893c08b73b4af7f350afc83c51b7a588a669b1a2c33ca79b51da"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L3_Crystal Structure.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1837723,
+    "sha256": "2b567d15d87847cac2afe079842c7a444f33a726d7f12bc6e5cc71d53b6d6d5f"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L4_Bonding Forces and Energy Bands.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1857299,
+    "sha256": "127d0c5e0194d303c08de30ca8cabfa304bc3ff16695e3e3c0fb744ed4c3f685"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L5_Energy Bands in Solids.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1981409,
+    "sha256": "3291be4615616d2dcb0add0749d0f270437331439249997a9f76f3b8367ea6ef"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L6.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1228725,
+    "sha256": "1cb4694be13179d653359d7750b5559c6520004d9ee0abaa9d650a9970f8b84f"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L7.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1555099,
+    "sha256": "508cf2007eadaa55f4a24eba2e2a6bac72da037e89eaa7cc2a9594963deef512"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L8.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1542326,
+    "sha256": "5dfe08cc1cfec91f3e3b2bce36ab871a533a85f3177a510d423d29d942a963a1"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L9.pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1146495,
+    "sha256": "e38f76f2b26add7d601472820f019d443ec811be1a4c8ecf91d12e51f27622ce"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/Lec before/ECE_340_F26_L11 (before lecture).pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1332162,
+    "sha256": "9aca06b06e8c742dd129f4d7db09ce4aaab797178c5bc5493318ff507e060c95"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/Lec before/ECE_340_F26_L13 (before lecture).pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1139200,
+    "sha256": "7abf20642d4b30b288799cdeea9057332e30ee00a90c998e22b4bf5ede966894"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/Lec before/ECE_340_F26_L19 (before lecture).pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1570849,
+    "sha256": "5c47a616b1e6d7e00eec87f4b8249d2f220b0692305af92db3aadcbe67cfadea"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/Lec before/ECE_340_F26_L4_Bonding Forces and Energy Bands (before lecture).pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 2661539,
+    "sha256": "21bf115b38bdb0a6a8b4104dba300fd68722620bcb13abdc07dfbbf18e43caef"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/Lec before/ECE_340_F26_L5 (before lecture).pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1995226,
+    "sha256": "5fdc4a40bed0c68a33272674e05e5fa0dfb9ea31c5dccdd5b05a925aae839817"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/Lec before/ECE_340_F26_L6 (before lecture).pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1899073,
+    "sha256": "e65a0edf15149afd47aee8707130fdb517d7591de7a73921baa8ec2690d8e760"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/Lec before/ECE_340_F26_L8 (before lecture).pdf",
+    "category": "课件",
+    "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
+    "bytes": 1929118,
+    "sha256": "ce0a83ba43679d0525d63d90b79ce5220a10752c97741a120cfd56e175b64c3f"
+  },
+  {
+    "path": "ECE340/ECE340_hw/ECE340_FA26_HW0.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 36354,
+    "sha256": "fb6ceb763c5813cebfc53b0f768fb317cf33b84a1d8216df0ec8dd4d67f2701f"
+  },
+  {
+    "path": "ECE340/ECE340_hw/ECE340_FA26_HW2_v2.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 81752,
+    "sha256": "59bcc82416926c95642c867132c204fa72d2138139ef37c067d1efe4c8e440db"
+  },
+  {
+    "path": "ECE340/ECE340_hw/ECE340_FA26_HW6.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 76190,
+    "sha256": "28e9c8013d6985c44359e8a03403558e662bd3c9a8911cf99923760e0c4653a4"
+  },
+  {
+    "path": "ECE340/ECE340_hw/ECE340_HW5_F26.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 354713,
+    "sha256": "2a49a2916f129e4aaef9c09a79b3539ab2f694fa83ebf9b8eb4515306d9e7863"
+  },
+  {
+    "path": "ECE340/ECE340_hw/ECE_340_Fall_2026_HW_1.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 67181,
+    "sha256": "10051f1621522ceed60a0c7db873a534b746b01945ed9f2964a8ab22b0f01101"
+  },
+  {
+    "path": "ECE340/ECE340_hw/ECE_340_Fall_2026_HW_7.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 1079571,
+    "sha256": "bf7dd8f538b0c5c5fab707930cefe1e19455864f79fc6c67e589c39e14d6894f"
+  },
+  {
+    "path": "ECE340/ECE340_hw/Fall_26_ECE_340_HW3.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 290139,
+    "sha256": "e385634d6e6f42ace1f35c68f2f2da813ffac8ee025a9ebc835602eb999d76f0"
+  },
+  {
+    "path": "ECE340/ECE340_hw/Fall_26_ECE_340_HW4-1.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 525510,
+    "sha256": "65914ea4b6ae5e1d8265b555903eb834d73f61df171731fa52345517c832d2a2"
+  },
+  {
+    "path": "ECE340/ECE340_hw/HW_sol/ECE340_FA26_HW2_sol_v4.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 136227,
+    "sha256": "f0acf07628ee481af979236bed3413ca005e97aa63ded481c794f31baa13e816"
+  },
+  {
+    "path": "ECE340/ECE340_hw/HW_sol/ECE340_FA26_HW6_SOL.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 172212,
+    "sha256": "a60388d86500fda21de99787cfb2d34c3bc7f5d35760792a8101aa7943bb91f8"
+  },
+  {
+    "path": "ECE340/ECE340_hw/HW_sol/ECE340_HW5_F26_sol.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 911635,
+    "sha256": "214b2ca6a290165d4447844ddd1ec2164956eed5c36a26930911a7471d035acd"
+  },
+  {
+    "path": "ECE340/ECE340_hw/HW_sol/ECE_340_Fall_2026_HW_1_solution.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 104481,
+    "sha256": "56b147f321e20b39f2d2c7860ae9c1d34848859c29bd2cd3a34440d6c5bce854"
+  },
+  {
+    "path": "ECE340/ECE340_hw/HW_sol/Fall_26_ECE_340_HW3_Sol_STUDENTS.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 436956,
+    "sha256": "131dc62417809e10b992082e23f36eafb964d8afd1cb2db88cd1f567342c258a"
+  },
+  {
+    "path": "ECE340/ECE340_hw/HW_sol/Fall_26_ECE_340_HW4_Solution_Students-2.pdf",
+    "category": "作业原件",
+    "source_note": "当期题面或原版答案；SOL/sol/solution原名保留",
+    "bytes": 567337,
+    "sha256": "bbc0f60e5e8f4b6acb335270378c6f8a80aad1c7d3cecaeba5e65fc1268a5a24"
+  },
+  {
+    "path": "ECE340/reference/Final Exam/Lecture_Notes (1)(1).pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section补充，原名保留",
+    "bytes": 767253,
+    "sha256": "8fab3f5cc72d9ffb6f17844ff129d931438e55387491f72c5fd16ef03ed4738f"
+  },
+  {
+    "path": "ECE340/reference/LectureNote/Lecture_Notes_Cp12.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 394154,
+    "sha256": "3a64c0134732771ad98ee1ecfbb7681f870001620387ba0709d303a2d2000a79"
+  },
+  {
+    "path": "ECE340/reference/LectureNote/Lecture_Notes_Cp13.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 236004,
+    "sha256": "a39e31be4077f332bbdabb09fc96d30e82857616d0955c42874409c418d8b485"
+  },
+  {
+    "path": "ECE340/reference/LectureNote/Lecture_Notes_Cp14.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 4199887,
+    "sha256": "05b414f1adafd71b2f538f053b7c392579c668a51dc75dddc5deb45f8c717d46"
+  },
+  {
+    "path": "ECE340/reference/LectureNote/Lecture_Notes_Cp15.pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section参考；不代表当期课堂覆盖",
+    "bytes": 4756481,
+    "sha256": "37f4d19b8a88a844ac12fe9e851edd2138ccde2a45d2d83e8d74a56b71fd1c46"
+  },
+  {
+    "path": "ECE340/reference/LectureNotes-Chs.1-4 (incomplete draft).pdf",
+    "category": "参考课件",
+    "source_note": "历史/其他section补充，原名保留",
+    "bytes": 549121,
+    "sha256": "874d8f21164531de7aecf6ec9f6385cf3a3246b8a186329e12a1e153f1616f83"
+  }
+]

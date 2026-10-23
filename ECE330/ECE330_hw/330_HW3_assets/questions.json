@@ -1,0 +1,47 @@
+[
+  {
+    "hw": 3,
+    "n": 1,
+    "label": "3.10",
+    "instance": 721260886,
+    "variant": 171848096,
+    "img": null,
+    "original": "A 280/140 V, 3 kVA, 60 Hz, single-phase transformer is used to supply power to a 3 kVA resistive load (PF=1.0) at rated voltage of 140 V.\n\nAssuming the transformer is ideal, what would be the magnitude of the current on the primary (280 V) side?\n\n$I_p$ [A] = ______\n\nAssuming the transformer is ideal, what is the apparent impedance of the load viewed from the the primary (280 V) side?\n\n$R_p$ [$\\Omega$] = ______"
+  },
+  {
+    "hw": 3,
+    "n": 2,
+    "label": "SP 4.1",
+    "instance": 721260888,
+    "variant": 171848098,
+    "img": null,
+    "original": "A 390/130 V, 3.1 kVA, 60 Hz, single-phase transformer is used to supply power to a 3.1 kVA load with PF=0.8 lagging at rated voltage of 130 V.\n\nAssuming the transformer is ideal, what would be the magnitude of the current on the primary (390 V) side?\n\n$I_p$ [A] = ______\n\nAssuming the transformer is ideal, what is the apparent impedance of the load viewed from the the primary (390 V) side?\n\n$R_p$ [$\\Omega$] = ______\n\n$X_p$ [$\\Omega$] = ______"
+  },
+  {
+    "hw": 3,
+    "n": 3,
+    "label": "3.3",
+    "instance": 721260885,
+    "variant": 171848100,
+    "img": "3p3.png",
+    "original": "Consider the following iron core, illustrated with a frontal view on the left and a side view on the right:\n\nLet $i=4.6$ A, $N=218$ turns, $d=3.7$ cm, and $g=0.33$ cm. Assume that the permeability of the iron core is $\\mu_c=\\infty$. Neglect fringing effects.\n\nWhat is the magnitude of the flux through the center leg?\n\n$\\phi_c$ [Wb] = ______\n\nWhat is the magnitude of the flux through the right and left legs, $\\phi_r$ and $\\phi_l$?\n\n$\\phi_r$ [Wb] = ______\n\n$\\phi_l$ [Wb] = ______"
+  },
+  {
+    "hw": 3,
+    "n": 4,
+    "label": "3.8",
+    "instance": 721260887,
+    "variant": 171848101,
+    "img": "3p8.png",
+    "original": "Consider the following iron core, illustrated with a frontal view on the top and a side view on the bottom:\n\nAn iron core with relative permeability $\\mu_r=1700$ has a coil with $N=112$ turns wrapped around one end. The lengths for the core are $l_1=9$ cm and $l_2=5$ cm. The air gap is $g=0.48$ cm. Fringing effects can be neglected.\n\nWhat is the reluctance of the iron core and **one of the two** air gaps? (Note that the unit \"MA turns/Wb\" contains a factor of $10^6$.)\n\n$\\mathcal R_c$ [MA turns/Wb] = ______\n\n$\\mathcal R_g$ [MA turns/Wb] = ______\n\nWhat is the current $i$ for $\\phi=0.0005$ Wb in the iron core?\n\n$i$ [A] = ______"
+  },
+  {
+    "hw": 3,
+    "n": 5,
+    "label": "SP 3.1",
+    "instance": 721260884,
+    "variant": 171848103,
+    "img": "SP3p1.png",
+    "original": "Consider the iron structure shown. Assume that $\\mu=\\infty$ in the iron. The structure has a uniform cross sectional area $A=2.6$ cm$^2$ in each leg. All the air gaps are the same length with $g=1.4$ mm. Neglect fringing effects. Each coil has current $i$ with the directions shown. Each coil has $N=151$ turns.\n\nWhat is the reluctance of **each individual** air gap? (Note that the structure contains six air gaps in total, and the unit \"MA turns/Wb\" contains a factor of $10^6$.)\n\n$\\mathcal R_g$ [MA turns/Wb] = ______\n\nWhat is the current $i$ for $B=0.5$ T in the center leg?\n\n$i$ [A] = ______\n\nWhat is the flux linkage in the left hand coil when this current is applied?\n\n$\\lambda_1$ [Wb turns] = ______"
+  }
+]
