@@ -434,6 +434,14 @@
     "sha256": "33fb35e32c0a0dbfe94996065621c382851a30ad8471b5dc698a340f6f3f953c"
   },
   {
+    "path": "ECE310/ECE310_Lec/Lecture 20/ECE_310_Complete_Spring_2026_Lecture_20.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 1167162,
+    "sha256": "ee219e5aa7dfe2be6929dbb11e3a40fce8026a7c7d488166850d0b96b68cdd03"
+  },
+  {
     "path": "ECE310/ECE310_Lec/Lecture 20/ECE_310_Lecture_20.pdf",
     "category": "课件",
     "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
@@ -446,6 +454,78 @@
     "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
     "bytes": 364861,
     "sha256": "307dc8a6f9c7d8489db78d67ee227b84fb58c87e5226f5d46da373d2d812f5c1"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 21/ECE_310_Complete_Slides_Lecture_21.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 1413027,
+    "sha256": "9718e84cedb106a04985b01ed89e737a036d38a9e662c734318513be70814bb3"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 21/ECE_310_Lecture_21.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 364054,
+    "sha256": "9c0acdb0365159e8ec81162f8d07dbc2ff4ed8a01fcffad834a978e9a9ecadb5"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 21/ECE_310_Slides_Lecture_21.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 327904,
+    "sha256": "22262f6d44458b9ab9744874b5007523e82c6f25789f7c21725bfd49dab46074"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 22/ECE_310_Complete_Slides_Lecture_22.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 1823597,
+    "sha256": "061787c3500ec4966a463e19d0cb8be7d2054bb7719c80721002d00ffd3358df"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 22/ECE_310_Lecture_22.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 766009,
+    "sha256": "37cd4d625b4f131fde93c01d06aeeefe7090fd1fc3b2c300f16f9c64188886e5"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 22/ECE_310_Slides_Lecture_22.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 832330,
+    "sha256": "88aff8f476816c277dc1db87e20c5d2da34e9d18dee8b32658c87fde92fb69cd"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 23/ECE_310_Complete_Slides_Lecture_23.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 1859457,
+    "sha256": "8752540f79d0adaad705a1594e51a51c14d01b0e82052ed527f1f5cfb960cce2"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 23/ECE_310_Lecture_23.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 1222692,
+    "sha256": "9ef69b02ac762d3073293ac526eee264eda4e5bdafdfb9c00a68f23a1f6b2113"
+  },
+  {
+    "path": "ECE310/ECE310_Lec/Lecture 23/ECE_310_Slides_Lecture_23.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official Section E classroom material",
+    "source_page": "https://uofi.app.box.com/s/0ci54eywdts88pb3hh922kb5dla3li60",
+    "bytes": 1086751,
+    "sha256": "36bd26c110e58e5c0565a0ab3a1dd3ea003f5191241441235bb3b1f0a3019c73"
   },
   {
     "path": "ECE310/ECE310_Lec/Lecture 3/ECE_310_Complete_Slides_Lecture_3.pdf",
@@ -2205,6 +2285,14 @@
     "sha256": "0e8acdddeb14ee806d916d574671cdbb0cbe545b46d795df65b5900dbf7dce6e"
   },
   {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/Exit_tickets/Lect17.jpg",
+    "category": "当期补充section课件",
+    "source_note": "official supplemental classroom image; Mironenko section",
+    "source_page": "https://canvas.illinois.edu/courses/69573/pages/prof-mironenkos-lecture-schedule-note-review-sessions-are-optional",
+    "bytes": 29066,
+    "sha256": "87bbcf790ff955fd025776cb580ad9a59311054a5ab93676c2647a502c1e831c"
+  },
+  {
     "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/ReviewNotes/Exam1_Review_330_blank.pdf",
     "category": "课件",
     "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
@@ -2336,6 +2424,22 @@
     "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
     "bytes": 6602292,
     "sha256": "2365f30a336c8aa24a8dd07d14a8a4e43a40f25a1c366b300e253af185df6b2b"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch5/Ch5_after_10_21.pdf",
+    "category": "当期补充section课件",
+    "source_note": "official supplemental lecture slides; Mironenko section",
+    "source_page": "https://canvas.illinois.edu/courses/69573/pages/prof-mironenkos-lecture-schedule-note-review-sessions-are-optional",
+    "bytes": 7391409,
+    "sha256": "f045d304cf3265b4a29493fa30780009661a4458e8770699894dd21657165d88"
+  },
+  {
+    "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesAfter/Ch5/Ch5_after_10_23.pdf",
+    "category": "当期补充section课件",
+    "source_note": "official supplemental lecture slides; Mironenko section",
+    "source_page": "https://canvas.illinois.edu/courses/69573/pages/prof-mironenkos-lecture-schedule-note-review-sessions-are-optional",
+    "bytes": 7812971,
+    "sha256": "f4fc5c0abe05cd49f7caf63bd7fbf632f663dede80bfc3c73f9458df137b2976"
   },
   {
     "path": "ECE330/ECE330_Lec/Professor Mironenko's Notes/SlidesBefore/Ch5/Ch5_before.pdf",
@@ -3092,6 +3196,22 @@
     "source_note": "当期主section；330目录内另分Mironenko参考section；原版本全部保留",
     "bytes": 1903160,
     "sha256": "2c61cd1e78da9441a324d7eceeaa6a5188988a0dc3f02489a1dfd5891a0537d4"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L25.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official classroom material",
+    "source_page": "https://canvas.illinois.edu/courses/73618/files/folder/Lecture%20Slides/Lecture%20C%20-%20H.%20Kim",
+    "bytes": 1485942,
+    "sha256": "70758660efcefdc773fe6ca1067ea92b43eff5f24f2f704ca77c315315476802"
+  },
+  {
+    "path": "ECE340/ECE340_Lec/ECE_340_F26_L26.pdf",
+    "category": "当期课堂课件",
+    "source_note": "official classroom material",
+    "source_page": "https://canvas.illinois.edu/courses/73618/files/folder/Lecture%20Slides/Lecture%20C%20-%20H.%20Kim",
+    "bytes": 1670644,
+    "sha256": "582cb55d8b8de2549fd8f88ed0c5fec4add5222f0a6c25f0c9550f63840cef76"
   },
   {
     "path": "ECE340/ECE340_Lec/ECE_340_F26_L2_Intro_Crystal Structure.pdf",
