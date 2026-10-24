@@ -10,7 +10,7 @@ ECE310、ECE329、ECE330、ECE340 的课程课件、作业原件与现有样卷�
 
 | 课程 | 当期课件 | 当期作业 | 样卷与考试辅助原件 |
 |---|---|---|---|
-| ECE310 | [Section E](ECE310/ECE310_Lec/) | [HW](ECE310/ECE310_hw/) | [310exams](ECE310/310exams/) |
+| ECE310 | [Section E](ECE310/ECE310_Lec/) · [录课入口](ECE310/录课/) | [HW](ECE310/ECE310_hw/) | [310exams](ECE310/310exams/) |
 | ECE329 | [课堂 notes](ECE329/ECE329_Lec/) · [标准 prelec](ECE329/ECE329_preLec/) | [HW](ECE329/ECE329_hw/) | [329exams](ECE329/329exams/) |
 | ECE330 | [Banerjee 与 Mironenko](ECE330/ECE330_Lec/) | [PrairieLearn 题面快照](ECE330/ECE330_hw/) | [330exams](ECE330/330exams/) |
 | ECE340 | [Section C / H. Kim](ECE340/ECE340_Lec/) | [HW](ECE340/ECE340_hw/) | [340exams](ECE340/340exams/) |
