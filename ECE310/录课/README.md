@@ -1,20 +1,44 @@
 # ECE310 Section E 录课
 
-- 学期：Fall 2026。
-- 本人 section：Section E，MWF 3:00–3:50 p.m.，ECEB 1002。
-- [官方录课频道](https://mediaspace.illinois.edu/channel/channelid/415584812)
-- [当期课程官网](https://courses.grainger.illinois.edu/ece310/fa2026/)，在“Section E (3:00pm Section)”下列出此 Mediaspace Recordings Link。
-- 核对日期：2026-10-24（America/Chicago）。
+Fall 2026 · Corey Snyder · Section E（MWF 3:00–3:50 p.m.，ECEB 1002）。
 
-## 获取状态
+[全部视频下载](https://github.com/yitaoma89-bot/xuexi-genaku/releases/tag/ece310-section-e-fa2026-20261024) · [官方频道](https://mediaspace.illinois.edu/channel/channelid/415584812) · [当期课程官网](https://courses.grainger.illinois.edu/ece310/fa2026/)
 
-2026-10-24通过学生本人完成学校登录后核实：频道显示28条媒体，列表包含课堂录像和补录。列表日期为上传／创建日期，不据此自动推定讲次；其中存在明确标注来自Spring 2026的Lecture 3 Part 1补充录像。
+2026-10-24核实并备份频道列出的全部 **28条录课**，共 **10,093,807,444字节（10.09 GB）**。视频实际文件存于本库Releases，下面逐条链接可下载。
 
-已在Chrome核查：
+课堂录像使用平台提供的高清版本（720p／1080p）；先完成的3条保留原始M4V版本。补录保留其实际画幅与版本，不重新压缩。频道内的补录、来自Spring 2026的Lecture 3 Part 1按原题名区分，不冒充本学期现场录像。日期为频道显示的创建／上传日期，不自动对应Lecture N或实际授课日。
 
-- [10/23课堂录像](https://mediaspace.illinois.edu/media/t/1_5z0yh543/415584812)：正常播放，54分59秒；详情页仅有Details、Attachments、Share，无Download。Actions、播放器设置及右键菜单也未提供视频下载。
-- [Midterm 1 Review Make-up Lecture](https://mediaspace.illinois.edu/media/t/1_p4axmjdy/415584812)：9/28发布，频道标示46分44秒；详情页同样无Download选项。
+每条文件已核验音视频轨道、时长及开头／中段／结尾解码；远端文件大小和GitHub返回的SHA-256与本地一致。完整清单见[recordings-manifest.json](recordings-manifest.json)。这不是逐秒完整观看验收。
 
-[学校下载说明](https://answers.uillinois.edu/illinois/75611)指出，下载需由媒体所有者或协作者主动开启；已登录并可观看的用户才会在开启后看到Download选项。根据已检查页面，当前这些视频未向此学生账号提供下载入口，未逐一检查全部28条的下载状态。
+| 频道日期 | 原标题 | 时长 | 分辨率 | 文件大小 | 下载 | 官方来源 |
+|---|---|---|---|---|---|---|
+| 2026-08-24 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:55 | 1920×1080 | 1367.5 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-08-24_1_0ytzfnqe.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_0ytzfnqe/415584812) |
+| 2026-08-26 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:55 | 1920×1080 | 1044.8 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-08-26_1_kmwj8w33.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_kmwj8w33/415584812) |
+| 2026-08-31 | ECE 310 Lecture 3 Part 1 Make-up from Spring 2026 | 32:47 | 1552×1072 | 166.9 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-08-31_1_89lncopb.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_89lncopb/415584812) |
+| 2026-08-31 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:54 | 1920×1080 | 358.3 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-08-31_1_gk7gi9iu.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_gk7gi9iu/415584812) |
+| 2026-09-02 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 55:00 | 1280×720 | 577.9 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-02_1_6zt3myev.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_6zt3myev/415584812) |
+| 2026-09-02 | Lecture 3 Make-up Recording | 27:44 | 1920×1334 | 43.5 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-02_1_lzbz2z2i.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_lzbz2z2i/415584812) |
+| 2026-09-04 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 508.6 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-04_1_169w5ghu.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_169w5ghu/415584812) |
+| 2026-09-07 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 181.6 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-07_1_369ouy0k.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_369ouy0k/415584812) |
+| 2026-09-09 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 136.6 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-09_1_cwredt53.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_cwredt53/415584812) |
+| 2026-09-11 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 137.7 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-11_1_vo08anfg.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_vo08anfg/415584812) |
+| 2026-09-14 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 139.0 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-14_1_29u0ne2d.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_29u0ne2d/415584812) |
+| 2026-09-16 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 387.9 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-16_1_08vsvsc2.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_08vsvsc2/415584812) |
+| 2026-09-18 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 55:00 | 1280×720 | 159.9 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-18_1_7304yrq5.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_7304yrq5/415584812) |
+| 2026-09-21 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 163.8 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-21_1_0i5muvkr.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_0i5muvkr/415584812) |
+| 2026-09-23 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 400.1 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-23_1_9zw28qq0.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_9zw28qq0/415584812) |
+| 2026-09-25 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 147.6 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-25_1_dpc9140e.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_dpc9140e/415584812) |
+| 2026-09-28 | Midterm 1 Review Make-up Lecture | 46:44 | 1920×1334 | 104.1 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-28_1_p4axmjdy.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_p4axmjdy/415584812) |
+| 2026-09-30 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 55:00 | 1280×720 | 581.1 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-09-30_1_9e3a9emb.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_9e3a9emb/415584812) |
+| 2026-10-02 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 127.0 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-02_1_r19w7o1c.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_r19w7o1c/415584812) |
+| 2026-10-05 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 387.8 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-05_1_y7wx87ge.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_y7wx87ge/415584812) |
+| 2026-10-07 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 145.3 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-07_1_80ee3b60.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_80ee3b60/415584812) |
+| 2026-10-09 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 143.7 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-09_1_m2mrywfs.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_m2mrywfs/415584812) |
+| 2026-10-12 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 55:00 | 1280×720 | 135.9 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-12_1_07w0vp9y.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_07w0vp9y/415584812) |
+| 2026-10-14 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 331.6 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-14_1_wapwobue.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_wapwobue/415584812) |
+| 2026-10-16 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 371.5 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-16_1_qklhbdxp.mp4) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_qklhbdxp/415584812) |
+| 2026-10-19 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 55:00 | 1280×720 | 998.6 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-19_1_tk3opleb.m4v) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_tk3opleb/415584812) |
+| 2026-10-21 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 55:00 | 1280×720 | 414.9 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-21_1_nph22xfy.m4v) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_nph22xfy/415584812) |
+| 2026-10-23 | Digital Signal Processing (ECE 310 E) (ECE 310 CSP) Fall 2026 | 54:59 | 1280×720 | 430.7 MB | [视频](https://github.com/yitaoma89-bot/xuexi-genaku/releases/download/ece310-section-e-fa2026-20261024/2026-10-23_1_5z0yh543.m4v) | [Mediaspace](https://mediaspace.illinois.edu/media/t/1_5z0yh543/415584812) |
 
-**实际视频文件下载0份、上传0份。本目录目前只归档官方入口与核查状态，不代表已经备份录像。** 后续需取得官方开放的下载入口或教师提供的原文件，才能继续备份。不保存认证令牌或临时下载链接。
+获取方式为播放器正常使用的Kaltura视频接口；未导出浏览器凭据、未处理DRM、未保存临时令牌。用户于2026-10-24明确确认将这28条录课公开上传至现有学习库。各录像版权归其权利人，此备份不附加再分发授权。

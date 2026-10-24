@@ -10,7 +10,7 @@ ECE310、ECE329、ECE330、ECE340 的课程课件、作业原件与现有样卷�
 
 | 课程 | 当期课件 | 当期作业 | 样卷与考试辅助原件 |
 |---|---|---|---|
-| ECE310 | [Section E](ECE310/ECE310_Lec/) · [录课入口](ECE310/录课/) | [HW](ECE310/ECE310_hw/) | [310exams](ECE310/310exams/) |
+| ECE310 | [Section E](ECE310/ECE310_Lec/) · [录课28条](ECE310/录课/) | [HW](ECE310/ECE310_hw/) | [310exams](ECE310/310exams/) |
 | ECE329 | [课堂 notes](ECE329/ECE329_Lec/) · [标准 prelec](ECE329/ECE329_preLec/) | [HW](ECE329/ECE329_hw/) | [329exams](ECE329/329exams/) |
 | ECE330 | [Banerjee 与 Mironenko](ECE330/ECE330_Lec/) | [PrairieLearn 题面快照](ECE330/ECE330_hw/) | [330exams](ECE330/330exams/) |
 | ECE340 | [Section C / H. Kim](ECE340/ECE340_Lec/) | [HW](ECE340/ECE340_hw/) | [340exams](ECE340/340exams/) |
@@ -29,3 +29,7 @@ ECE310、ECE329、ECE330、ECE340 的课程课件、作业原件与现有样卷�
 本库是2026-10-22已有本地文件的单次备份，没有重新下载网站资料，也不代表课程资料已发布齐全、本人已学或已提交。330旧台账的四份Exam2 PDF本地未找到，仍列缺口。教材、生成的预习/复习讲义、维护历史和缓存不属本次范围。
 
 逐文件路径、分类、大小和SHA-256见[校验清单](archive-manifest.json)。各原件版权归其权利人；本库未附加再分发授权。
+
+## ECE310录课备份（2026-10-24）
+
+Section E频道列出的28条录课已下载并上传到本库[Releases](https://github.com/yitaoma89-bot/xuexi-genaku/releases/tag/ece310-section-e-fa2026-20261024)，共10,093,807,444字节。逐条标题、日期、时长、分辨率、下载链接及SHA-256见[录课目录](ECE310/录课/)。这是在2026-10-22原件备份之外新增的视频备份，不计入原477份原件的archive-manifest.json。
